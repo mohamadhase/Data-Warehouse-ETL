@@ -1,0 +1,101 @@
+For everyone, here is each doctor we have in our country:
+APPLE VALLEY has doctor MichaelChaffin who works in, his speciality is: Hospital Based Physician (Allied) , his working time is from 9 and he ends his working at 15, each visit cost is 61 $
+FRANKLIN has doctor YselaCarrillo who works in, his speciality is: Surgery - Trauma , his working time is from 9 and he ends his working at 15, each visit cost is 38 $
+CINCINNATI\NBEVIS\NCOLERAIN TOWNSHIP\NCOLERAIN TWP\NDENT\NDUNLAP\NGREEN TOWNSHIP\NGROESBECK\NWHITE O has doctor BrianSkale who works in, his speciality is: Cardiology , his working time is from 8 and he ends his working at 16, each visit cost is 30 $
+CINCINNATI\NBEVIS\NCOLERAIN TOWNSHIP\NCOLERAIN TWP\NDENT\NDUNLAP\NGREEN TOWNSHIP\NGROESBECK\NWHITE O has doctor BrianSkale who works in, his speciality is: Internal Medicine , his working time is from 9 and he ends his working at 14, each visit cost is 59 $
+LOS ANGELES\NBOYLE HEIGHTS has doctor RayOyakawa who works in, his speciality is: Ophthalmology , his working time is from 10 and he ends his working at 14, each visit cost is 38 $
+ESCANABA has doctor JohnGoodman who works in, his speciality is: Hospital Based Physician (Emergency Room) , his working time is from 10 and he ends his working at 16, each visit cost is 21 $
+NORTH SIOUX CITY\NDAKOTA DUNES\NMCCOOK LAKE\NN SIOUX CITY has doctor JeremyPoulsen who works in, his speciality is: Anesthesiology , his working time is from 10 and he ends his working at 14, each visit cost is 21 $
+SAN FRANCISCO has doctor HollyChristman who works in, his speciality is: Dermatology , his working time is from 10 and he ends his working at 16, each visit cost is 29 $
+ROUND ROCK\NOLD ROUND ROCK\NTHREE POINT has doctor RollinSarradet who works in, his speciality is: Dentists General Dentist , his working time is from 10 and he ends his working at 16, each visit cost is 33 $
+BETHESDA has doctor MarcieSchwartz who works in, his speciality is: Physical Therapist , his working time is from 10 and he ends his working at 16, each visit cost is 44 $
+NOVI has doctor ColeenDewitt who works in, his speciality is: Family Practice , his working time is from 10 and he ends his working at 14, each visit cost is 45 $
+BROOKLYN has doctor AlmasMerchant who works in, his speciality is: Psychology , his working time is from 9 and he ends his working at 14, each visit cost is 39 $
+SIMPSONVILLE has doctor KevinWalker who works in, his speciality is: Anesthesiology , his working time is from 9 and he ends his working at 15, each visit cost is 31 $
+SAINT LOUIS has doctor SudhirJain who works in, his speciality is: Cardiology , his working time is from 9 and he ends his working at 15, each visit cost is 30 $
+SAINT LOUIS has doctor SudhirJain who works in, his speciality is: Internal Medicine , his working time is from 10 and he ends his working at 16, each visit cost is 32 $
+VAN VLECK has doctor RashidRashid who works in, his speciality is: Dermatology , his working time is from 10 and he ends his working at 14, each visit cost is 64 $
+STAMFORD has doctor MichaelPagano who works in, his speciality is: ALH,XPA , his working time is from 9 and he ends his working at 16, each visit cost is 21 $
+RALEIGH has doctor BrianRobbins who works in, his speciality is: Psychology , his working time is from 10 and he ends his working at 15, each visit cost is 66 $
+CRYSTAL CITY has doctor JeffreyDavie who works in, his speciality is: Chiropractic , his working time is from 10 and he ends his working at 14, each visit cost is 36 $
+CAMDEN has doctor HoCheng who works in, his speciality is: Critical Care Medicine , his working time is from 8 and he ends his working at 16, each visit cost is 53 $
+OAK PARK has doctor DanielTorres who works in, his speciality is: Specialist Rheumatology , his working time is from 8 and he ends his working at 16, each visit cost is 34 $
+FAIRFIELD\NHAMILTON\NINDIAN SPRINGS has doctor AngelaMattke who works in, his speciality is: Hospital Based Physician (Emergency Room) , his working time is from 9 and he ends his working at 15, each visit cost is 65 $
+OWASSO has doctor ShelleyHogue who works in, his speciality is: Podiatry , his working time is from 8 and he ends his working at 14, each visit cost is 20 $
+Encino has doctor GeraldGoldstein who works in, his speciality is: Radiology , his working time is from 8 and he ends his working at 16, each visit cost is 25 $
+YAKIMA has doctor MichaelHauke who works in, his speciality is: Emergency Medicine , his working time is from 9 and he ends his working at 16, each visit cost is 34 $
+BRENTWOOD has doctor CarlFieser who works in, his speciality is: Pain Medicine, Physical Medicine & Rehabilitation , his working time is from 10 and he ends his working at 14, each visit cost is 69 $
+TUCSON has doctor AmandaArrington who works in, his speciality is: Surgery - General , his working time is from 10 and he ends his working at 14, each visit cost is 52 $
+RANCHO CUCAMONGA\NALTA LOMA\NRCH CUCAMONGA has doctor ChizomamAbanobi who works in, his speciality is: Family Practice , his working time is from 8 and he ends his working at 14, each visit cost is 58 $
+EVANSTON has doctor AzeemPasha who works in, his speciality is: Emergency Medicine , his working time is from 10 and he ends his working at 16, each visit cost is 63 $
+WESLACO\NPROGRESO LAKES\NPROGRESO LKS\NRAMONA has doctor RafaelRodriguez who works in, his speciality is: Specialist Pulmonology , his working time is from 10 and he ends his working at 14, each visit cost is 39 $
+WASHINGTON has doctor GregoryArgyros who works in, his speciality is: Pulmonary Disease , his working time is from 8 and he ends his working at 16, each visit cost is 20 $
+ORLANDO has doctor RafatAhmed who works in, his speciality is: Hospital Based Physician (Allied) , his working time is from 10 and he ends his working at 14, each visit cost is 54 $
+PHILADELPHIA\NOVERBROOK HILLS\NOVERBROOK HLS has doctor LinellBaylis who works in, his speciality is: Surgery , his working time is from 9 and he ends his working at 15, each visit cost is 48 $
+BLUE RIDGE has doctor Kyle                     Raque                               who works in, his speciality is: Clinical Psychology , his working time is from 10 and he ends his working at 16, each visit cost is 54 $
+WEST DES MOINES has doctor CarlMeyer who works in, his speciality is: General Vascular Surgery , his working time is from 9 and he ends his working at 16, each visit cost is 21 $
+CAVE CREEK has doctor PaulGawelko who works in, his speciality is: Family Practice , his working time is from 10 and he ends his working at 15, each visit cost is 54 $
+ATLANTA\NNORTH ATLANTA has doctor KaceyYoung who works in, his speciality is: Physical Therapy , his working time is from 8 and he ends his working at 16, each visit cost is 53 $
+BARONA RANCHERIA\NPALM SPRINGS MUNICIPAL AIRPO\NSMOKE TREE\NPALM SPRINGS has doctor CynthiaLeichman who works in, his speciality is: Hematology and Oncology , his working time is from 8 and he ends his working at 16, each visit cost is 50 $
+SAN JOSE has doctor MichaelHuynh who works in, his speciality is: P,ADP , his working time is from 10 and he ends his working at 14, each visit cost is 40 $
+CINCINNATI\NCOVEDALE\NDEL FAIR\NDELHI\NWESTERN HILLS has doctor SusanSzmyd who works in, his speciality is: Ophthalmology , his working time is from 9 and he ends his working at 14, each visit cost is 41 $
+Emeryville has doctor UmaRao who works in, his speciality is: Hospital Based Physician (Other) , his working time is from 9 and he ends his working at 14, each visit cost is 67 $
+CHASKA has doctor JeffreyDahlen who works in, his speciality is: Emergency Medicine , his working time is from 9 and he ends his working at 14, each visit cost is 51 $
+BRADENTON\NPALMA SOLA has doctor LarryCadman who works in, his speciality is: Anesthesiology , his working time is from 9 and he ends his working at 16, each visit cost is 53 $
+COLUMBIA has doctor JerriShealy who works in, his speciality is: Pediatrics , his working time is from 10 and he ends his working at 16, each visit cost is 65 $
+INDIANAPOLIS has doctor RipleyWorman who works in, his speciality is: Student In An Organized Health Care Education/Training Program , his working time is from 10 and he ends his working at 16, each visit cost is 50 $
+CHAPEL HILL has doctor PatricePatterson who works in, his speciality is: Clinical Social Work , his working time is from 9 and he ends his working at 14, each visit cost is 30 $
+PHOENIX has doctor HassanHachem who works in, his speciality is: Nephrology , his working time is from 10 and he ends his working at 15, each visit cost is 32 $
+CHICAGO has doctor JacobJackson who works in, his speciality is: GS,OSH , his working time is from 9 and he ends his working at 16, each visit cost is 65 $
+OREGON has doctor AghaShahid                              who works in, his speciality is: Psychiatry , his working time is from 8 and he ends his working at 16, each visit cost is 49 $
+SAN ANTONIO\NOLMOS PARK has doctor JeannieBaquero who works in, his speciality is: Specialist Endocrinology , his working time is from 9 and he ends his working at 15, each visit cost is 69 $
+HOMEWOOD has doctor TimothyKisla who works in, his speciality is: Ophthalmology , his working time is from 10 and he ends his working at 15, each visit cost is 27 $
+Inglewood has doctor WeenaLopez who works in, his speciality is: General Dentist , his working time is from 8 and he ends his working at 14, each visit cost is 42 $
+WASHINGTON has doctor JosephLiberman who works in, his speciality is: Neurology , his working time is from 8 and he ends his working at 16, each visit cost is 24 $
+OCONOMOWOC has doctor Sarah                    Parve                               who works in, his speciality is: Nurse Practitioner , his working time is from 8 and he ends his working at 15, each visit cost is 53 $
+Torrance has doctor MonaRahimi who works in, his speciality is: DENTISTS PERIODONTIST , his working time is from 8 and he ends his working at 15, each visit cost is 48 $
+LAVONIA has doctor RichardCampbell who works in, his speciality is: PMD,AN,ANH , his working time is from 9 and he ends his working at 14, each visit cost is 21 $
+Hanford has doctor ShuguangLiu who works in, his speciality is: Anesthesiology , his working time is from 9 and he ends his working at 15, each visit cost is 31 $
+FLORENCE has doctor JamesO Kelly who works in, his speciality is: Urology , his working time is from 9 and he ends his working at 14, each visit cost is 68 $
+STAMFORD has doctor StevenBramwit who works in, his speciality is: Otolaryngology , his working time is from 9 and he ends his working at 15, each visit cost is 53 $
+Modesto has doctor MarkThomas who works in, his speciality is: Hospital Based Physician (Emergency Room) , his working time is from 10 and he ends his working at 15, each visit cost is 60 $
+SOUTH HOLLAND has doctor LawrenceOkafor who works in, his speciality is: Primary Care Physicians Internal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 59 $
+NEW PORT RICHEY\NNEW PRT RCHY\NNEW PT RICHEY\NSEVEN SPRINGS has doctor EatonYen who works in, his speciality is: PM,PMD,PMR , his working time is from 9 and he ends his working at 14, each visit cost is 38 $
+MOSS BEACH has doctor LindseyClark who works in, his speciality is: Hospital Based Physician (Allied) , his working time is from 9 and he ends his working at 16, each visit cost is 26 $
+WEST CHESTER\NLIBERTY TOWNSHP\NPISGAH has doctor WilliamNaber who works in, his speciality is: EMH,EM , his working time is from 10 and he ends his working at 14, each visit cost is 61 $
+ROCKY MOUNT\NWESLEYAN COL\NWESLEYAN COLLEGE has doctor KentAnderson who works in, his speciality is: Internal Medicine , his working time is from 10 and he ends his working at 15, each visit cost is 59 $
+DERRY has doctor YvonneWilson who works in, his speciality is: Internal Medicine , his working time is from 10 and he ends his working at 14, each visit cost is 44 $
+COLUMBUS has doctor RazaKhan who works in, his speciality is: Specialist Anesthesiology , his working time is from 8 and he ends his working at 14, each visit cost is 53 $
+SPRING HILL\NBROOKSVILLE has doctor BettinaSmith who works in, his speciality is: Nurse Practitioner , his working time is from 9 and he ends his working at 14, each visit cost is 31 $
+GREEN BAY\NBELLEVUE has doctor ThomasWigton who works in, his speciality is: Obstetrics & Gynecology , his working time is from 9 and he ends his working at 16, each visit cost is 44 $
+Hanford has doctor JingjingLi who works in, his speciality is: Dentistry , his working time is from 9 and he ends his working at 16, each visit cost is 21 $
+Hanford has doctor JingjingLi who works in, his speciality is: Periodontics , his working time is from 8 and he ends his working at 16, each visit cost is 44 $
+MINNEAPOLIS has doctor GautamShroff who works in, his speciality is: Cardiovascular Disease , his working time is from 10 and he ends his working at 14, each visit cost is 33 $
+HEMINGWAY\NSTUCKEY has doctor AmyHaseldon who works in, his speciality is: Physical Medicine and Rehabilitation , his working time is from 10 and he ends his working at 16, each visit cost is 52 $
+MESA has doctor JJackson who works in, his speciality is: Dermatology , his working time is from 9 and he ends his working at 16, each visit cost is 67 $
+NEW YORK has doctor Anca-OanaKranz who works in, his speciality is: Nuclear Medicine , his working time is from 10 and he ends his working at 16, each visit cost is 33 $
+NEW YORK has doctor Anca-OanaKranz who works in, his speciality is: Radiology/Radiologist , his working time is from 9 and he ends his working at 16, each visit cost is 47 $
+MADISON has doctor TameraBerget who works in, his speciality is: Physician Assistant , his working time is from 9 and he ends his working at 16, each visit cost is 67 $
+Stockton has doctor NavjotGill who works in, his speciality is: General Dentist , his working time is from 9 and he ends his working at 16, each visit cost is 55 $
+SEA GIRT\NWALL TOWNSHIP has doctor DanielStabile who works in, his speciality is: Pain Management Specialist , his working time is from 8 and he ends his working at 16, each visit cost is 61 $
+SAINT LOUIS has doctor NartanaMehta who works in, his speciality is: Registered Dietician , his working time is from 10 and he ends his working at 16, each visit cost is 41 $
+KANSAS CITY has doctor TaryneHensley who works in, his speciality is: Advanced Registered Nurse Practitioner , his working time is from 8 and he ends his working at 14, each visit cost is 24 $
+KANSAS CITY has doctor TaryneHensley who works in, his speciality is: Nurse Practitioner , his working time is from 10 and he ends his working at 14, each visit cost is 31 $
+RAYMORE has doctor CharlesEckert who works in, his speciality is: Chiropractic , his working time is from 8 and he ends his working at 16, each visit cost is 53 $
+CINCINNATI has doctor ScottHines who works in, his speciality is: Hospital Based Physician (Emergency Room) , his working time is from 10 and he ends his working at 15, each visit cost is 61 $
+BLOOMFIELD\NBROOKDALE\NGROVE\NNORTH CENTER\NWATSESSING has doctor MohammadBajwa who works in, his speciality is: Gastroenterology , his working time is from 8 and he ends his working at 15, each visit cost is 51 $
+BLOOMFIELD\NBROOKDALE\NGROVE\NNORTH CENTER\NWATSESSING has doctor MohammadBajwa who works in, his speciality is: Internal Medicine , his working time is from 10 and he ends his working at 14, each visit cost is 40 $
+IRVING has doctor KimberlyWilliams who works in, his speciality is: Dentists General Dentist , his working time is from 8 and he ends his working at 16, each visit cost is 65 $
+EDWARDSVILLE\NDUNLAP LAKE\NHOLIDAY SHORES has doctor DanielThouvenot who works in, his speciality is: Podiatry , his working time is from 10 and he ends his working at 14, each visit cost is 54 $
+BROMLEY\NCOVINGTON\NCRESCENT PARK\NCRESCENT SPG\NCRESCENT SPGS\NCRESCENT SPRINGS\NCRESTVIEW HILLS\NC has doctor BradleyEilerman who works in, his speciality is: Endocrinology, Diabetes and Metabolism , his working time is from 9 and he ends his working at 14, each visit cost is 61 $
+Dartmouth                      has doctor ThandekaMyeni who works in, his speciality is: Ophthalmology/Ophtal Surg , his working time is from 10 and he ends his working at 14, each visit cost is 50 $
+BROOMALL\NLAWRENCE PARK\NMARPLE TOWNSHIP has doctor AmyVogia who works in, his speciality is: Radiology , his working time is from 9 and he ends his working at 16, each visit cost is 52 $
+ERIE\NSOUTH ERIE has doctor LisaSchening who works in, his speciality is: Psychology , his working time is from 8 and he ends his working at 16, each visit cost is 29 $
+LOS GATOS has doctor EricZacharias who works in, his speciality is: Hospital Based Physician (Emergency Room) , his working time is from 8 and he ends his working at 15, each visit cost is 59 $
+DALLAS has doctor DeniseBeltowski who works in, his speciality is: Emergency Medicine , his working time is from 10 and he ends his working at 15, each visit cost is 58 $
+FLUSHING has doctor Chun-YuanLi who works in, his speciality is: Acupuncture , his working time is from 10 and he ends his working at 14, each visit cost is 68 $
+LOS ANGELES has doctor YvonneAhn who works in, his speciality is: ANH,AN,PMD , his working time is from 10 and he ends his working at 16, each visit cost is 49 $
+KENNETT\NCARUTH has doctor brar bani who works in, his speciality is: Durable Medical Equipment , his working time is from 9 and he ends his working at 14, each visit cost is 40 $
+PATERSON\NSOUTH PATERSON has doctor JosephHolahan who works in, his speciality is: PND,PD , his working time is from 8 and he ends his working at 14, each visit cost is 54 $
+MONROEVILLE has doctor KellyChrillo who works in, his speciality is: Non Physician - Physician Assistant , his working time is from 9 and he ends his working at 15, each visit cost is 32 $
+CAMP HILL\NSHIREMANSTOWN has doctor BrianBloom who works in, his speciality is: Specialist Radiology/Diagnostic , his working time is from 8 and he ends his working at 15, each visit cost is 38 $

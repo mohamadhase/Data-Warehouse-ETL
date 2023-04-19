@@ -1,0 +1,101 @@
+This is a file contains the most famous doctors in the country:
+GaryStewart works in CINCINNATI\NCPU GLENDALE\NPARKDALE\NSPRINGDALE , the entry fees are: 21 $  , and the working hours are at 9 - 16 the doctor is special in Physiatry
+DouglasWoolard works in Daleville , the entry fees are: 58 $  , and the working hours are at 9 - 15 the doctor is special in Diagnostic Radiology
+KristinWingfield works in SAN FRANCISCO , the entry fees are: 31 $  , and the working hours are at 10 - 14 the doctor is special in Sports Medicine
+ZhengWang works in ARCADIA , the entry fees are: 37 $  , and the working hours are at 8 - 15 the doctor is special in Hospital Based Physician (Anesthesiology)
+LisaBoggs works in LEBANON , the entry fees are: 33 $  , and the working hours are at 10 - 14 the doctor is special in Non Physician - Nursing Related
+KathyKrantz works in ROGERS , the entry fees are: 22 $  , and the working hours are at 8 - 15 the doctor is special in Nurse Practitioner
+LarryBrown works in Oxnard , the entry fees are: 38 $  , and the working hours are at 10 - 15 the doctor is special in Physical Therapy
+NancyDavis works in TWO RIVERS , the entry fees are: 52 $  , and the working hours are at 10 - 14 the doctor is special in Specialist Oncology
+RuchiSethi works in HACKENSACK\NHACK , the entry fees are: 54 $  , and the working hours are at 10 - 16 the doctor is special in CD,IM
+AnnHartman works in EXPORT , the entry fees are: 42 $  , and the working hours are at 9 - 16 the doctor is special in Behavioral Health and Social Service Providers Professional Counselor
+GlenHastings works in SAINT JOE\NST JOE\NSAINT JOSEPH , the entry fees are: 43 $  , and the working hours are at 9 - 15 the doctor is special in Surgery, General
+ElizabethDevries works in PLYMOUTH , the entry fees are: 48 $  , and the working hours are at 10 - 16 the doctor is special in Family Practice
+KerenHolt works in SEATTLE , the entry fees are: 38 $  , and the working hours are at 9 - 15 the doctor is special in Clinical Social Work
+NancySpangler works in RACINE , the entry fees are: 59 $  , and the working hours are at 8 - 14 the doctor is special in Physician Assistant
+JohnGrady works in Salinas , the entry fees are: 45 $  , and the working hours are at 8 - 14 the doctor is special in Hospital Based Physician (Emergency Room)
+LauraVaughan works in SAN JOSE , the entry fees are: 62 $  , and the working hours are at 9 - 16 the doctor is special in Internal Medicine
+SusanBrennan works in DOVER\NLEIPSIC , the entry fees are: 67 $  , and the working hours are at 10 - 15 the doctor is special in Hospital Based Physician (Emergency Room)
+ColeenGearhart works in STOW\NCUYAHOGA FALLS\NCUYAHOGA FLS\NSILVER LAKE , the entry fees are: 23 $  , and the working hours are at 8 - 16 the doctor is special in Nurse Practitioner
+AnandKarsan works in DECATUR\NBEARSDALE , the entry fees are: 47 $  , and the working hours are at 8 - 16 the doctor is special in NOT SPECIFIED
+JosephMawyer works in Glendale , the entry fees are: 53 $  , and the working hours are at 8 - 16 the doctor is special in Student In An Organized Health Care Education/Training Program
+PatrickBowers works in HIXSON , the entry fees are: 28 $  , and the working hours are at 9 - 14 the doctor is special in Ophthalmology
+RyanHartman                             works in LOVELAND , the entry fees are: 67 $  , and the working hours are at 8 - 14 the doctor is special in Orthopaedic Surgery;Pediatrics;Sports Medicine;Surgery
+EricMarsh works in MUSKEGO , the entry fees are: 22 $  , and the working hours are at 10 - 16 the doctor is special in Dermatology
+Amanda                   Ortt                                works in PROVIDENCE , the entry fees are: 46 $  , and the working hours are at 10 - 16 the doctor is special in Mental Health Counseling
+AlmaLoya works in LANCASTER\NDEL SUR\NFAIRMONT\NHI VISTA\NWILSONA GARDENS , the entry fees are: 24 $  , and the working hours are at 10 - 16 the doctor is special in Specialist Radiology/Diagnostic
+JeffreyHelwig works in CHICAGO , the entry fees are: 36 $  , and the working hours are at 9 - 14 the doctor is special in Emergency Medicine
+AmyHenderson works in LA GRANGE , the entry fees are: 20 $  , and the working hours are at 9 - 16 the doctor is special in Urgent Care
+MichaelBrooks works in LEXINGTON , the entry fees are: 58 $  , and the working hours are at 10 - 14 the doctor is special in Radiology-Diagnostic
+Adam                     Liss                                works in PENSAUKEE\NOCONTO , the entry fees are: 56 $  , and the working hours are at 10 - 15 the doctor is special in Radiation Oncology
+Ashley                   Young                               works in HARTFORD\NWEST HARTFORD , the entry fees are: 50 $  , and the working hours are at 9 - 15 the doctor is special in Obstetrics And Gynecology
+DavidBrown works in STRATFORD\NBRIDGEPORT , the entry fees are: 46 $  , and the working hours are at 10 - 15 the doctor is special in Orthopaedic Surgery
+MEDRISK works in Burbank , the entry fees are: 46 $  , and the working hours are at 8 - 14 the doctor is special in Physical Therapy
+AmirFassihi works in NEWTON\NAMBOY\NLAMBS GROVE , the entry fees are: 43 $  , and the working hours are at 9 - 15 the doctor is special in Diagnostic Radiology
+Jamie                    Brooks                              works in ORLANDO , the entry fees are: 66 $  , and the working hours are at 9 - 14 the doctor is special in Nurse Practitioner
+ElizabethDiedrich works in PEORIA , the entry fees are: 53 $  , and the working hours are at 9 - 14 the doctor is special in Nurse/Nurse Practitioner
+UpendraMahat works in PRINCE FREDERICK\NDARES BEACH\NPR FREDERICK\NPRNC FREDERCK , the entry fees are: 28 $  , and the working hours are at 9 - 15 the doctor is special in Pediatrics
+MarkCampbell works in GILBERT , the entry fees are: 49 $  , and the working hours are at 10 - 16 the doctor is special in Orthopedics
+MarkCampbell works in GILBERT , the entry fees are: 35 $  , and the working hours are at 9 - 14 the doctor is special in Surgery, General
+WalterReichert works in SALT LAKE CITY , the entry fees are: 38 $  , and the working hours are at 8 - 16 the doctor is special in Neurology
+GregoryMacchio works in MISSION VIEJO\NSAN JUAN CAPISTRANO\NSAN JUAN CAPO , the entry fees are: 64 $  , and the working hours are at 9 - 14 the doctor is special in AN,CCM,PMD
+DilshadAbtin works in SAN FRANCISCO , the entry fees are: 39 $  , and the working hours are at 8 - 14 the doctor is special in Dentist
+FloydEverhart works in GOLDEN\NLAKEWOOD , the entry fees are: 66 $  , and the working hours are at 10 - 14 the doctor is special in Hospital Based Physician (Radiology)
+RonaldAdler works in NEW YORK\NMANHATTAN\NNYC , the entry fees are: 66 $  , and the working hours are at 9 - 14 the doctor is special in Diagnostic Ultrasound
+GaryLaden works in ATLANTA\NCUMBERLAND\NOVERLOOK SRU\NSMYRNA\NVININGS\NVINNINGS , the entry fees are: 22 $  , and the working hours are at 8 - 14 the doctor is special in PRC,POD
+TomorrowLaureano works in FAIRFIELD\NHAMILTON\NINDIAN SPRINGS , the entry fees are: 68 $  , and the working hours are at 9 - 15 the doctor is special in Hospital Based Physician (Allied)
+JamesHanner works in MERRICK\NN MERRICK\NNORTH MERRICK , the entry fees are: 32 $  , and the working hours are at 9 - 14 the doctor is special in Diagnostic Radiology
+TanyaLofton works in GAITHERSBURG\NMONTGOMERY VILLAGE\NMONTGOMRY VLG , the entry fees are: 67 $  , and the working hours are at 10 - 14 the doctor is special in Behavioral Health and Social Service Providers Professional Counselor
+Robert                   Moraru                              works in E HAMPTON\NEAST HAMPTON , the entry fees are: 30 $  , and the working hours are at 8 - 15 the doctor is special in Dermatology
+PaulinoGoco works in MURFREESBORO\NMBORO , the entry fees are: 48 $  , and the working hours are at 10 - 14 the doctor is special in Specialist Otolaryngology
+KellyWalsh works in YORK\NBOTTS\NLEADERS HEIGHTS\NORE VALLEY\NWINDSOR PARK\NWYNDHAM HILLS , the entry fees are: 20 $  , and the working hours are at 8 - 14 the doctor is special in Internal Medicine
+AmirYazdani works in STATEN ISLAND , the entry fees are: 60 $  , and the working hours are at 10 - 16 the doctor is special in Internal Medicine
+RanjanaMitra works in ELIZABETH CITY\NELIZ CITY\NELIZABETH CITY COAST GUARD A\NELIZABETH CTY , the entry fees are: 23 $  , and the working hours are at 8 - 16 the doctor is special in Internal Medicine
+TerriCrabtree works in MARYVILLE , the entry fees are: 39 $  , and the working hours are at 8 - 15 the doctor is special in MEDICAL PRACTITIONERS Certified Nurse Practitioner
+DennisGlaude works in COMMERCE , the entry fees are: 30 $  , and the working hours are at 9 - 14 the doctor is special in XNA,ALH
+PatriciaGiesler works in GREEN BAY , the entry fees are: 68 $  , and the working hours are at 10 - 14 the doctor is special in Cardiothoracic Surgery
+RachelPulver works in Emeryville , the entry fees are: 37 $  , and the working hours are at 10 - 15 the doctor is special in Hospital Based Physician (Allied)
+KevinFarrell works in ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN , the entry fees are: 26 $  , and the working hours are at 10 - 15 the doctor is special in Transplantation
+JohnLudlow works in GRAND RAPIDS , the entry fees are: 65 $  , and the working hours are at 9 - 16 the doctor is special in Urology/Urological Surger
+GailCallaway works in BOSTON , the entry fees are: 57 $  , and the working hours are at 9 - 16 the doctor is special in IM,PD
+BruceKinney works in TROY , the entry fees are: 42 $  , and the working hours are at 9 - 16 the doctor is special in Ob / Gyn
+StephenMyron works in FORT WAYNE\NFT WAYNE , the entry fees are: 37 $  , and the working hours are at 9 - 16 the doctor is special in Family Practice / General Practice
+KeithWilson works in INDIANAPOLIS , the entry fees are: 38 $  , and the working hours are at 10 - 15 the doctor is special in Diagnostic Radiology
+BarryWalters works in PIKESVILLE , the entry fees are: 32 $  , and the working hours are at 10 - 14 the doctor is special in CD,D,IM
+ZhiMeng works in DINUBA\NLONDON , the entry fees are: 62 $  , and the working hours are at 10 - 16 the doctor is special in Dentistry
+LawrenceAdjei works in RINCON , the entry fees are: 58 $  , and the working hours are at 8 - 16 the doctor is special in Internal Medicine
+TraciWojcik works in IRWIN\NN HUNTINGDON\NNORTH IRWIN , the entry fees are: 23 $  , and the working hours are at 10 - 15 the doctor is special in Specialist Obstetrics/Gynecology
+AnnaBuabbud works in ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN , the entry fees are: 59 $  , and the working hours are at 8 - 16 the doctor is special in Obstetrics & Gynecology
+ChadiJarjoura works in CPU BLOOMINGDALE\NKINGSPORT , the entry fees are: 32 $  , and the working hours are at 8 - 15 the doctor is special in Obstetrics & Gynecology
+DavidHarrison works in SEATTLE\NEAST UNION , the entry fees are: 55 $  , and the working hours are at 8 - 14 the doctor is special in Psychiatry
+JoelStern works in MELBOURNE\NSUNTREE , the entry fees are: 32 $  , and the working hours are at 8 - 16 the doctor is special in Primary Care Physicians Emergency Medicine
+RubenSalinas works in AUSTIN , the entry fees are: 49 $  , and the working hours are at 8 - 15 the doctor is special in Primary Care Physicians Internal Medicine
+JavierLongoria works in ORANGE , the entry fees are: 53 $  , and the working hours are at 10 - 15 the doctor is special in pulmonary diseases
+MarciaWilmot works in COLUMBIA , the entry fees are: 20 $  , and the working hours are at 8 - 16 the doctor is special in Behavioral Health and Social Service Providers Professional Counselor
+AnthonyLobianco works in ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN , the entry fees are: 29 $  , and the working hours are at 10 - 15 the doctor is special in General Practice
+MelissaBrown works in LANCASTER\NFERTILITY\NLYNDON\NMEADIA HEIGHTS\NWILLOW VIEW HEIGHTS\NZOOKS CORNER , the entry fees are: 42 $  , and the working hours are at 8 - 15 the doctor is special in Behavioral Health and Social Service Providers Psychology (Clinical)
+Ko,, MDKo works in CORINTH\NSHADY SHORES\NDENTON , the entry fees are: 28 $  , and the working hours are at 8 - 14 the doctor is special in Family Medicine
+Ko,, MDKo works in CORINTH\NSHADY SHORES\NDENTON , the entry fees are: 30 $  , and the working hours are at 9 - 16 the doctor is special in Sports Medicine
+Ko,, MDKo works in CORINTH\NSHADY SHORES\NDENTON , the entry fees are: 68 $  , and the working hours are at 10 - 16 the doctor is special in Physical Medicine and Rehabilitation
+Stephanie                Zimmer                              works in SALT LAKE CITY\NBRIGHTON\NCOTTONWD HGTS\NCOTTONWOOD\NCOTTONWOOD HEIGHTS\NCOTTONWOOD HEIGHTS CITY\NHO , the entry fees are: 41 $  , and the working hours are at 9 - 14 the doctor is special in Nurse Practitioner
+CeciliaHansen works in JACKSON\NJXN , the entry fees are: 62 $  , and the working hours are at 10 - 16 the doctor is special in Hospital Based Physician (Emergency Room)
+IraSchwartz works in CARMEL\NKENT LAKES\NLAKE CARMEL , the entry fees are: 51 $  , and the working hours are at 9 - 14 the doctor is special in Cardiovascular Disease
+LisaBoggs works in SAINT LOUIS , the entry fees are: 24 $  , and the working hours are at 10 - 16 the doctor is special in Non Physician - Nursing Related
+JohnEllis works in WILKES BARRE\NHILLDALE\NHUDSON\NLAFLIN\NMINERS MILL\NPARSONS\NPLAINS\NPLAINS TOWNSHIP\NPLAINS TWP , the entry fees are: 24 $  , and the working hours are at 10 - 14 the doctor is special in Cardiology
+CharlesThomas works in ASHEVILLE\NBILTMORE FOREST\NBILTMORE FRST , the entry fees are: 40 $  , and the working hours are at 10 - 15 the doctor is special in RO,TRD
+JohnBak works in TACOMA , the entry fees are: 56 $  , and the working hours are at 9 - 14 the doctor is special in Urology
+JananiKamesan works in ROCKVILLE CENTRE\NLAKEVIEW\NROCKVILLE CENTER\NRVC , the entry fees are: 32 $  , and the working hours are at 8 - 16 the doctor is special in NOT SPECIFIED
+PreetiMatneja works in BALTIMORE\NFIRMS-COURTESY REPLY , the entry fees are: 25 $  , and the working hours are at 9 - 14 the doctor is special in Physical Therapy
+CharlesTuggle works in OAKDALE\NKNIGHTS FERRY\NVALLEY HOME , the entry fees are: 25 $  , and the working hours are at 10 - 15 the doctor is special in Psychiatry
+DavidSchanes works in TUCSON , the entry fees are: 47 $  , and the working hours are at 8 - 14 the doctor is special in Optometrist/Optometry
+Stephen                  Schuster                            works in FAR ROCKAWAY , the entry fees are: 68 $  , and the working hours are at 10 - 15 the doctor is special in Obstetrics And Gynecology
+BarbaraThornburg works in INDIANAPOLIS\NNORA , the entry fees are: 69 $  , and the working hours are at 8 - 16 the doctor is special in Certified Social Work
+JohnAnxo works in CARSON CITY , the entry fees are: 29 $  , and the working hours are at 9 - 14 the doctor is special in Hospital Based Physician (Anesthesiology)
+QuentinPhung works in Clifton Park                   , the entry fees are: 36 $  , and the working hours are at 10 - 14 the doctor is special in Pain Medicine
+QuentinPhung works in Clifton Park                   , the entry fees are: 26 $  , and the working hours are at 10 - 14 the doctor is special in Physical Medicine & Rehab
+EricHogan works in AURORA\NJENKINS , the entry fees are: 41 $  , and the working hours are at 10 - 14 the doctor is special in Hospital Based Physician (Emergency Room)
+WaydeJames works in ELK GROVE , the entry fees are: 22 $  , and the working hours are at 10 - 16 the doctor is special in Hospitalist
+WaydeJames works in ELK GROVE , the entry fees are: 47 $  , and the working hours are at 9 - 16 the doctor is special in Chiropractics
+MarcKoenig works in GRAND COULEE , the entry fees are: 56 $  , and the working hours are at 9 - 15 the doctor is special in Radiology, Diagnostic
+DwightMakoff works in LOS ANGELES , the entry fees are: 61 $  , and the working hours are at 9 - 14 the doctor is special in Internal Medicine
+DwightMakoff works in LOS ANGELES , the entry fees are: 40 $  , and the working hours are at 10 - 16 the doctor is special in Nephrology

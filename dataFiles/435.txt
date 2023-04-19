@@ -1,0 +1,101 @@
+This is a file contains the most famous doctors in the country:
+SusanPardee works in SCOTTSDALE , the entry fees are: 26 $  , and the working hours are at 8 - 16 the doctor is special in Specialist Dermatology
+Charles                  O`Connell                           works in SAN DIEGO , the entry fees are: 39 $  , and the working hours are at 8 - 14 the doctor is special in Emergency Medicine
+ScottMellender works in MANAHAWKIN\NBEACH HAVEN WEST\NCEDAR BONNET ISLAND\NSTAFFORD TOWNSHIP\NSTAFFORD TWP , the entry fees are: 69 $  , and the working hours are at 9 - 15 the doctor is special in PMD,AN,GS
+AlfredPinto works in NEW CARLISLE\NHUDSON LAKE , the entry fees are: 58 $  , and the working hours are at 9 - 14 the doctor is special in Medical Practitioners Chiropractor
+JanieLiao works in Irvine , the entry fees are: 68 $  , and the working hours are at 9 - 15 the doctor is special in Internal Medicine
+AmirAssefnia works in LOS ANGELES , the entry fees are: 23 $  , and the working hours are at 10 - 15 the doctor is special in Orthodontics/Orthodontist
+EricaKaiser works in PAINESVILLE\NCONCORD TWP\NFAIRPORT HARBOR\NFAIRPORT HBR , the entry fees are: 57 $  , and the working hours are at 9 - 14 the doctor is special in Non Physician - Physician Assistant
+RyanLynch works in SAINT LOUIS , the entry fees are: 42 $  , and the working hours are at 8 - 16 the doctor is special in Hospital Based Physician (Emergency Room)
+KarenMackinnon works in WESTMINSTER , the entry fees are: 60 $  , and the working hours are at 10 - 16 the doctor is special in Nurse Midwife
+RandyConover works in BENTONVILLE , the entry fees are: 29 $  , and the working hours are at 10 - 15 the doctor is special in Family Practice
+RodneyCarson works in GREENVILLE\NSHENANGO , the entry fees are: 66 $  , and the working hours are at 9 - 16 the doctor is special in Certified Social Work
+GeorgeSoliman works in PENSACOLA , the entry fees are: 28 $  , and the working hours are at 8 - 15 the doctor is special in Family Medicine
+RobinNuskind works in PRINCE FREDERICK\NDARES BEACH\NPR FREDERICK\NPRNC FREDERCK , the entry fees are: 58 $  , and the working hours are at 10 - 15 the doctor is special in Magnetic Resonance Imaging
+LauraMulloy works in AUGUSTA , the entry fees are: 44 $  , and the working hours are at 9 - 15 the doctor is special in Nephrology
+DanielGeary works in CANONSBURG\NMC MURRAY\NMCMURRAY , the entry fees are: 24 $  , and the working hours are at 9 - 15 the doctor is special in Hospital Based Physician (Emergency Room)
+KirstenBendeck works in SUN CITY , the entry fees are: 46 $  , and the working hours are at 10 - 16 the doctor is special in Hospital Based Physician (Emergency Room)
+LeyberthRosendo works in KISSIMMEE , the entry fees are: 32 $  , and the working hours are at 9 - 15 the doctor is special in Family Practice
+KacyWard works in CLAREMORE , the entry fees are: 49 $  , and the working hours are at 9 - 14 the doctor is special in Physical Therapy
+DanielleDoyle works in RALEIGH , the entry fees are: 59 $  , and the working hours are at 9 - 15 the doctor is special in Hospital Based Physician (Allied)
+ManeeshGupta works in BATON ROUGE , the entry fees are: 62 $  , and the working hours are at 8 - 14 the doctor is special in Family Medicine
+ManeeshGupta works in BATON ROUGE , the entry fees are: 60 $  , and the working hours are at 9 - 16 the doctor is special in Gastroenterology
+AlanKlein works in CHARLOTTE , the entry fees are: 50 $  , and the working hours are at 8 - 14 the doctor is special in Dermatology
+TommyWagner works in MANILA , the entry fees are: 40 $  , and the working hours are at 9 - 14 the doctor is special in Family Medicine
+LisaCejka works in SPARTA\NRAVENSCROFT\NRIVERWATCH , the entry fees are: 36 $  , and the working hours are at 8 - 15 the doctor is special in Non Physician - Nursing Related
+CindyDao works in ANAHEIM\NSUNKIST , the entry fees are: 69 $  , and the working hours are at 10 - 14 the doctor is special in Physical Therapy
+ShahrfarIlami works in GRAND SALINE , the entry fees are: 44 $  , and the working hours are at 9 - 16 the doctor is special in Chiropractic
+JohniceBarajas works in PHOENIX , the entry fees are: 49 $  , and the working hours are at 9 - 15 the doctor is special in Nurse Practitioner
+KimberlyWooten works in BUFFALO , the entry fees are: 68 $  , and the working hours are at 8 - 16 the doctor is special in *Unspecified
+HenryAndoh works in MARICOPA , the entry fees are: 61 $  , and the working hours are at 10 - 15 the doctor is special in Radiology/Radiologist
+BanTruong works in CHULA VISTA , the entry fees are: 47 $  , and the working hours are at 8 - 14 the doctor is special in EM,EMH
+CarrieTwedt works in GREENVILLE , the entry fees are: 50 $  , and the working hours are at 8 - 15 the doctor is special in Obstetrics And Gynecology
+AMYUMANSKY works in AURORA\NDENVER , the entry fees are: 42 $  , and the working hours are at 10 - 15 the doctor is special in Therapist Audiology
+StanleyMarcus works in PITTSBURGH , the entry fees are: 59 $  , and the working hours are at 10 - 16 the doctor is special in Dentists General Dentist
+AndrewWagner works in FRESNO , the entry fees are: 55 $  , and the working hours are at 10 - 15 the doctor is special in Internal Medicine
+CharlesPurdy works in CHICAGO , the entry fees are: 45 $  , and the working hours are at 10 - 15 the doctor is special in FP,EMH
+KennethJohnson works in MISSION VIEJO\NSAN JUAN CAPISTRANO\NSAN JUAN CAPO , the entry fees are: 42 $  , and the working hours are at 9 - 16 the doctor is special in ANH,AN
+GaryJacobson works in MARIETTA , the entry fees are: 57 $  , and the working hours are at 9 - 14 the doctor is special in General Vascular Surgery
+TerenceHughes works in WILTON , the entry fees are: 60 $  , and the working hours are at 9 - 14 the doctor is special in Radiology/Radiologist
+SaraBecker works in MESA , the entry fees are: 49 $  , and the working hours are at 10 - 15 the doctor is special in Physical Therapy
+CarolLindsay works in AKRON , the entry fees are: 69 $  , and the working hours are at 8 - 15 the doctor is special in MFM,GYN,NPM,OBG,OBY
+HeloiseMurphy works in PERRY , the entry fees are: 65 $  , and the working hours are at 8 - 15 the doctor is special in Therapist Physical Therapy
+LawrenceSilvers works in LAKEWOOD , the entry fees are: 66 $  , and the working hours are at 9 - 14 the doctor is special in Vascular Surgery
+LawrenceSilvers works in LAKEWOOD , the entry fees are: 56 $  , and the working hours are at 9 - 15 the doctor is special in General Surgery
+KatherineMoxley works in OKLAHOMA CITY , the entry fees are: 37 $  , and the working hours are at 9 - 14 the doctor is special in Gynecologic Oncology
+AndreaFrench works in PULASKI\NANGELICA\NKUNESH\NSOUTH CHASE , the entry fees are: 33 $  , and the working hours are at 10 - 14 the doctor is special in Pediatrics
+DomingoMaynes works in PHOENIX , the entry fees are: 25 $  , and the working hours are at 8 - 15 the doctor is special in Palliative Medicine
+DerekNewsome works in CHARLESTON , the entry fees are: 27 $  , and the working hours are at 10 - 14 the doctor is special in Physician Assistant
+AmyDeipolyi works in NEW YORK\NMANHATTAN\NNYC , the entry fees are: 58 $  , and the working hours are at 9 - 16 the doctor is special in Hospital Based Physician (Radiology)
+JamesPaul works in QUAD CITY AIRPORT\NMOLINE , the entry fees are: 44 $  , and the working hours are at 10 - 15 the doctor is special in Plastic Surgery
+JamesPaul works in QUAD CITY AIRPORT\NMOLINE , the entry fees are: 35 $  , and the working hours are at 10 - 16 the doctor is special in Oral And Maxillofacial Surgery
+YuzanaZaw works in GREEN VALLEY , the entry fees are: 63 $  , and the working hours are at 10 - 15 the doctor is special in Nephrology
+JeanettePelton works in CITYWIDE , the entry fees are: 53 $  , and the working hours are at 10 - 15 the doctor is special in Behavioral Health Service
+Aaron                    Chidakel                            works in NEW YORK\NMANHATTAN\NNYC , the entry fees are: 54 $  , and the working hours are at 10 - 16 the doctor is special in Endocrinology and Metabolism;Internal Medicine
+DonaldWillman works in CHICAGO , the entry fees are: 66 $  , and the working hours are at 10 - 15 the doctor is special in EM,EMH
+LynnBorowiec works in BERLIN\NKENINGTON\NKENSINGTON , the entry fees are: 66 $  , and the working hours are at 10 - 15 the doctor is special in Physical Therapy
+DonaldFerris works in BRISTOL\NSTEPHEN HOLSTON , the entry fees are: 53 $  , and the working hours are at 10 - 15 the doctor is special in Podiatry
+GerardTiballi works in BUFFALO\NKENMORE\NTN OF TONA\NTONAWANDA\NTOWN OF TONAWANDA , the entry fees are: 50 $  , and the working hours are at 8 - 15 the doctor is special in Primary Care Physicians Emergency Medicine
+JohnKilcullen works in FALLS CHURCH\NMOSBY , the entry fees are: 22 $  , and the working hours are at 10 - 16 the doctor is special in Specialist Critical Care
+JamesCaswell works in MOUNT PLEASANT , the entry fees are: 41 $  , and the working hours are at 8 - 14 the doctor is special in Hospital Based Physician (Anesthesiology)
+PatrickMeehan works in SANTA CRUZ , the entry fees are: 50 $  , and the working hours are at 9 - 14 the doctor is special in Family Practice
+PujaMody works in Modesto , the entry fees are: 26 $  , and the working hours are at 9 - 14 the doctor is special in Hospital Based Physician (Allied)
+DavidEasterday works in TROY\NBRISCOE\NDAVIS\NOLD ALEXANDRIA , the entry fees are: 51 $  , and the working hours are at 8 - 15 the doctor is special in Family Practice
+GregoryOlenic works in NEW CASTLE\NCASTLE\NNESHANNOCK , the entry fees are: 44 $  , and the working hours are at 8 - 16 the doctor is special in Anesthesiology
+GregoryOlenic works in NEW CASTLE\NCASTLE\NNESHANNOCK , the entry fees are: 62 $  , and the working hours are at 9 - 15 the doctor is special in Pain Management
+MatthewDiament works in HEWLETT\NHEWLETT BAY\NHEWLETT BAY PARK\NHEWLETT HARBOR , the entry fees are: 29 $  , and the working hours are at 9 - 14 the doctor is special in Diagnostic Radiology
+Dewane                   Frase                               works in PHILLIPS\NELK\NHACKETT\NLUGER\NLUGERVILLE\NWORCESTER , the entry fees are: 49 $  , and the working hours are at 8 - 15 the doctor is special in Chiropractic
+DeannaPetersen works in Coronado , the entry fees are: 41 $  , and the working hours are at 8 - 16 the doctor is special in Certified Social Work
+RandallSather works in CHAPEL HILL , the entry fees are: 61 $  , and the working hours are at 10 - 15 the doctor is special in Specialist Radiology/Diagnostic
+KarenVidal works in ZEPHYRHILLS , the entry fees are: 21 $  , and the working hours are at 10 - 15 the doctor is special in Surgical Technologist
+MalavJoshi works in BALTIMORE\NARLINGTON , the entry fees are: 41 $  , and the working hours are at 8 - 15 the doctor is special in Specialist Ophthalmology
+JaneHolan works in AKRON , the entry fees are: 41 $  , and the working hours are at 9 - 14 the doctor is special in Pediatric
+KennethRomano works in ENGLISHTOWN\NMANALAPAN\NMILLSTONE\NMILLSTONE TOWNSHIP\NMILLSTONE TWP , the entry fees are: 53 $  , and the working hours are at 10 - 14 the doctor is special in Radiology-Diagnostic
+GeoffreyHosta works in Riverside , the entry fees are: 46 $  , and the working hours are at 9 - 16 the doctor is special in Hospital Based Physician (Emergency Room)
+TracyReyes works in HOUSTON , the entry fees are: 56 $  , and the working hours are at 8 - 16 the doctor is special in MEDICAL PRACTITIONERS CRNA
+MatthewDowell works in EDMOND , the entry fees are: 29 $  , and the working hours are at 8 - 14 the doctor is special in Primary Care Physicians Family Medicine
+ChristinaMyers works in ROSWELL , the entry fees are: 59 $  , and the working hours are at 10 - 15 the doctor is special in Physical Therapist
+SapanaAdhikari works in BOSTON , the entry fees are: 38 $  , and the working hours are at 9 - 15 the doctor is special in Hospital Based Physician (Emergency Room)
+VidhiParikh works in AUDUBON\NAUDUBON PARK\NCAMDEN , the entry fees are: 22 $  , and the working hours are at 8 - 15 the doctor is special in Emergency Medicine
+NicolausKuehn works in TIFFIN\NFORT SENECA , the entry fees are: 25 $  , and the working hours are at 9 - 14 the doctor is special in Specialist Radiology/Diagnostic
+JamesNoel works in ALBUQUERQUE , the entry fees are: 36 $  , and the working hours are at 10 - 16 the doctor is special in Pediatric Gastroenterology
+JordanBrown works in TULSA , the entry fees are: 58 $  , and the working hours are at 10 - 14 the doctor is special in Hospice and Palliative Medicine
+MarjorieLantum works in JOPLIN , the entry fees are: 46 $  , and the working hours are at 10 - 16 the doctor is special in HOS,IM
+CreightonWright works in FORT MITCHELL\NBROMLEY\NCOVINGTON\NCRESCENT PARK\NCRESCENT SPG\NCRESCENT SPGS\NCRESCENT SPRINGS\NCRE , the entry fees are: 37 $  , and the working hours are at 10 - 14 the doctor is special in CD,CTS,GS,OSH,TS,VIR,VS
+LorraineLiberti works in MAHWAH , the entry fees are: 23 $  , and the working hours are at 9 - 15 the doctor is special in Pediatrics
+StephanieGold works in DENVER , the entry fees are: 37 $  , and the working hours are at 10 - 15 the doctor is special in Family Practice
+NicholasIenni works in HENDERSON , the entry fees are: 59 $  , and the working hours are at 10 - 15 the doctor is special in Physical Therapy
+StevenMeeks works in Paradise , the entry fees are: 34 $  , and the working hours are at 9 - 15 the doctor is special in Hospital Based Physician (Emergency Room)
+TimothyTonini works in WESTMINSTER , the entry fees are: 40 $  , and the working hours are at 8 - 15 the doctor is special in Hospital Based Physician (Emergency Room)
+AngelaStork works in ROCK ISLAND , the entry fees are: 57 $  , and the working hours are at 9 - 16 the doctor is special in Surgery, General
+KamilahHalmon works in FALLS CHURCH\NMOSBY , the entry fees are: 38 $  , and the working hours are at 8 - 14 the doctor is special in Pediatrics
+MichaelAllender works in DALLAS , the entry fees are: 65 $  , and the working hours are at 8 - 14 the doctor is special in Hospital Based Physician (Anesthesiology)
+DavidChoi works in MESA , the entry fees are: 67 $  , and the working hours are at 8 - 15 the doctor is special in Radiology-Diagnostic
+TroyMarsh works in TOOELE\NERDA\NLAKE POINT\NPINE CANYON\NSTANSBURY PARK\NSTANSBURY PK\NTOOELE ARMY DEPOT , the entry fees are: 45 $  , and the working hours are at 8 - 16 the doctor is special in Physical Therapy
+ArditaTali works in CHICAGO\NMERCHANDISE MART , the entry fees are: 38 $  , and the working hours are at 10 - 15 the doctor is special in Primary Care Physicians Family Medicine
+BrianWilliams works in DENVER , the entry fees are: 45 $  , and the working hours are at 8 - 15 the doctor is special in Family Practice
+MichelleReed works in READING\NBERKLEY\NBERNHARTS\NLAURELDALE\NMUHLENBURG PARK\NONTELAUNEE\NRIVER VIEW PARK\NTUCKERTON , the entry fees are: 60 $  , and the working hours are at 8 - 14 the doctor is special in MEDICAL PRACTITIONERS Certified Nurse Practitioner
+BenjaminYoo works in DELRAY BEACH , the entry fees are: 57 $  , and the working hours are at 8 - 15 the doctor is special in Family Practice
+DanielKirschner works in GURNEE , the entry fees are: 59 $  , and the working hours are at 10 - 14 the doctor is special in Family Practice
+TimothyLee works in Carmichael , the entry fees are: 45 $  , and the working hours are at 9 - 14 the doctor is special in Cardiology, Interventional
+JasonMackey works in INDIANAPOLIS\NEAGLE CREEK , the entry fees are: 61 $  , and the working hours are at 10 - 14 the doctor is special in Surgery, Neurological

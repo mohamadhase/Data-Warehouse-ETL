@@ -1,0 +1,101 @@
+This file introduces group of doctors with their details:
+MarthaFuller and he has fees of 61 $ he is special in Non Physician - Nursing Related his working hours are: 9-16, he do his job in LOS ANGELES
+WeiWei and he has fees of 33 $ he is special in General Surgeons his working hours are: 9-15, he do his job in WYTHEVILLE\NSTONES MILL
+LeeCollins and he has fees of 67 $ he is special in Diagnostic Radiology his working hours are: 9-15, he do his job in BAY SHORE\NBAYSHORE\NFAIR HARBOR\NKISMET\NN BAY SHORE\NNORTH BAY SHORE\NPOINT O WOODS\NSALTAIRE\NW B
+LeighGebhardt and he has fees of 53 $ he is special in Nurse Practitioner his working hours are: 8-15, he do his job in CITYWIDE
+Robert                   Dracker                             and he has fees of 57 $ he is special in Pathology;Pediatric Hematology-Oncology;Pediatrics his working hours are: 8-15, he do his job in CAMILLUS\NHOWLETT HILL\NSPLIT ROCK
+NorikoRoberson and he has fees of 38 $ he is special in Family Nurse Practitioner his working hours are: 10-14, he do his job in TUCSON
+TeresaSchraeder and he has fees of 42 $ he is special in Internal Medicine his working hours are: 9-15, he do his job in CAMBRIDGE
+UlugbekBuriev and he has fees of 53 $ he is special in Hospital Based Physician (Other) his working hours are: 10-15, he do his job in RALEIGH
+JerryGilles and he has fees of 61 $ he is special in MFM,OBG his working hours are: 8-16, he do his job in ATLANTA
+VictorTodisco and he has fees of 24 $ he is special in Radiology, Diagnostic his working hours are: 8-15, he do his job in NEWBURGH\NBALMVILLE\NTOWN BRANCH
+ThomasLee and he has fees of 50 $ he is special in Specialist Obstetrics/Gynecology his working hours are: 10-14, he do his job in Upland
+JamalZarghami and he has fees of 43 $ he is special in CD,IC,IM his working hours are: 8-16, he do his job in NOVI
+JUDITHESMAN and he has fees of 69 $ he is special in Specialist Physical Medicine & Rehabilitation his working hours are: 8-14, he do his job in MARS\NSEVEN FIELDS
+AnnaHeimerl and he has fees of 34 $ he is special in Physical Therapy his working hours are: 9-14, he do his job in GRANTS\NAMBROSIA LAKE\NANACONDA\NBROADVIEW ACRES\NSAN MATEO
+JohnEverett and he has fees of 27 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 8-16, he do his job in SAN JOSE
+TracyReece and he has fees of 59 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 9-14, he do his job in CINCINNATI
+HinaChawla and he has fees of 26 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 9-16, he do his job in SAN FRANCISCO
+JulieDennard and he has fees of 50 $ he is special in Primary Care Physicians Emergency Medicine his working hours are: 9-15, he do his job in AUGUSTA
+MichaelEddy and he has fees of 22 $ he is special in Urology his working hours are: 9-14, he do his job in LOVELAND
+Shannon                  Davis                               and he has fees of 27 $ he is special in Surgery his working hours are: 8-16, he do his job in LOGANSPORT
+WallyZollman and he has fees of 36 $ he is special in Plastic Surgery his working hours are: 8-14, he do his job in NEW AUGUSTA\NTRADERS POINT\NINDIANAPOLIS
+ThohaPham and he has fees of 48 $ he is special in Specialist Anesthesiology his working hours are: 9-16, he do his job in SAN FRANCISCO
+BryanThompson and he has fees of 55 $ he is special in Podiatrist/Podiatry his working hours are: 10-15, he do his job in COUER D`ALENE
+BryanThompson and he has fees of 67 $ he is special in Surgery - Foot & Ankle his working hours are: 9-14, he do his job in COUER D`ALENE
+DevanDalla and he has fees of 62 $ he is special in Dentistry his working hours are: 10-15, he do his job in Sacramento
+BernardNg and he has fees of 48 $ he is special in PHH,PTH his working hours are: 10-16, he do his job in LATHAM\NNEWTONVILLE\NVERDOY\NWEST LATHAM
+MercedesMadar and he has fees of 28 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 8-15, he do his job in CORTLAND\NCORTLANDVILLE\NMUNSONS CORNERS\NVIRGIL
+MartaFoster and he has fees of 20 $ he is special in ANH,AN his working hours are: 10-16, he do his job in HOLLYWOOD\NPEMBROKE PARK
+JoannaRoufos and he has fees of 36 $ he is special in Audiology his working hours are: 10-16, he do his job in NEW YORK\NMANHATTAN\NNYC
+RibhiHarzin and he has fees of 24 $ he is special in Hospital Based Physician (Other) his working hours are: 8-15, he do his job in HILLSDALE
+Brian                    Ingram                              and he has fees of 30 $ he is special in Physicians Assistant his working hours are: 9-15, he do his job in PITTSFIELD TWP\NANN ARBOR
+SusheelDua and he has fees of 45 $ he is special in Anesthesiology his working hours are: 9-16, he do his job in CANTON\NHOLLY SPRINGS
+KatrinaAberdeen and he has fees of 61 $ he is special in Adult Health his working hours are: 10-16, he do his job in OAK RIDGE
+Godofredo                Miranda                             and he has fees of 41 $ he is special in Radiology (hospital based) his working hours are: 8-16, he do his job in Taft
+GincySamuel and he has fees of 51 $ he is special in Neurology his working hours are: 10-14, he do his job in DALLAS
+JonathanFravel and he has fees of 41 $ he is special in Diagnostic Radiology his working hours are: 9-15, he do his job in LITTLE ROCK
+TeresaSalomon and he has fees of 67 $ he is special in MEDICAL PRACTITIONERS Optometry his working hours are: 9-15, he do his job in PLANT CITY
+ErinFuchs and he has fees of 48 $ he is special in Optometry his working hours are: 9-16, he do his job in VIENNA
+FanKwan and he has fees of 43 $ he is special in Behavioral Health and Social Service Providers Social Worker his working hours are: 9-15, he do his job in MIDVALE\NCUSHING
+AmittAggarwal and he has fees of 44 $ he is special in Family Practice his working hours are: 9-16, he do his job in MARYVILLE
+BradenFichter and he has fees of 42 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 9-14, he do his job in CINCINNATI\NBRIDGETOWN\NCHEVIOT\NFAIRMONT\NMACK
+KristinJablonski and he has fees of 24 $ he is special in Physical Therapist his working hours are: 8-15, he do his job in FARMINGTN HLS\NFARMINGTON HILLS\NFARMINGTON HLS\NFARMINGTON
+MatthewGalloucis and he has fees of 68 $ he is special in Psychology his working hours are: 10-15, he do his job in ARLINGTON HEIGHTS\NARLINGTON HTS
+TysonOakey and he has fees of 38 $ he is special in MEDICAL PRACTITIONERS Certified Nurse Practitioner his working hours are: 8-16, he do his job in OGDEN\NSOUTH OGDEN\NSOUTH WEBER\NUINTAH
+HarpreetWalia and he has fees of 54 $ he is special in Ophthalmology his working hours are: 8-16, he do his job in MACON\NNO MACON\NZEBULON BRANCH
+SusanRendon and he has fees of 48 $ he is special in Anatomic Pathology & Clinical Pathology his working hours are: 8-16, he do his job in LAS VEGAS
+LeonardJohns and he has fees of 58 $ he is special in Non Physician - Physician Assistant his working hours are: 10-14, he do his job in JACKSONVILLE
+LindsayWalicky and he has fees of 22 $ he is special in Physical Therapist his working hours are: 8-15, he do his job in BRICK\NBRICKTOWN\NOSBORNSVILLE
+RyanHamlin and he has fees of 24 $ he is special in Non Physician - Physician Assistant his working hours are: 10-14, he do his job in RALEIGH\NNORTH HILLS
+CalixtoCazano and he has fees of 39 $ he is special in Family Practice his working hours are: 10-16, he do his job in PARAGOULD
+EdwardFriedman and he has fees of 60 $ he is special in Neurologist his working hours are: 9-14, he do his job in SAN DIEGO
+FannyNg and he has fees of 22 $ he is special in Anesthesiology his working hours are: 9-16, he do his job in OCEANSIDE\NROCKVILLE CENTER\NROCKVILLE CENTRE\NRVC
+LindsayFriesen and he has fees of 61 $ he is special in Internal Medicine his working hours are: 9-15, he do his job in CHARLOTTESVILLE
+ScottBowen and he has fees of 59 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 10-16, he do his job in LAGUNA HILLS\NALISO VIEJO\NLAGUNA WOODS
+AndrewWagner and he has fees of 69 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 9-16, he do his job in CINCINNATI
+MaherJerudi and he has fees of 55 $ he is special in Internal Medicine his working hours are: 8-15, he do his job in BROAD BOTTOM\NGULNARE\NMCCOMBS\NMETA\NNELSE\NPISO\NPIKEVILLE
+RichardLoew and he has fees of 20 $ he is special in Emergency Medicine his working hours are: 10-15, he do his job in STUART
+GeorgeMccaffrey and he has fees of 51 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 9-16, he do his job in Oxnard
+StanleyDennison and he has fees of 26 $ he is special in Specialist Anesthesiology his working hours are: 10-15, he do his job in TAMPA
+KatherineAnderson and he has fees of 67 $ he is special in Family Practice his working hours are: 8-15, he do his job in DENVER
+JohnSung and he has fees of 46 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 8-15, he do his job in BERWYN\NSTICKNEY
+NildaNeyra and he has fees of 50 $ he is special in Internal Medicine his working hours are: 8-16, he do his job in TUCSON
+NildaNeyra and he has fees of 22 $ he is special in Nephrology his working hours are: 9-15, he do his job in TUCSON
+CharlesSpatz and he has fees of 51 $ he is special in Podiatry his working hours are: 8-14, he do his job in HAZLET
+KristenDonaldson and he has fees of 21 $ he is special in Hospital Based Physician (Allied) his working hours are: 9-15, he do his job in LAGUNA HILLS\NALISO VIEJO\NLAGUNA WOODS
+ScottFosko and he has fees of 20 $ he is special in D,GS,IM his working hours are: 8-14, he do his job in SAINT LOUIS\NDES PERES\NGLENDALE\NKIRKWOOD\NWARSON WOODS
+RhondaParker and he has fees of 51 $ he is special in Physical Therapy his working hours are: 9-14, he do his job in NEWPORT
+KhaNguyen and he has fees of 37 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 10-14, he do his job in ARROYO GRANDE\NHALCYON\NPISMO BEACH
+SyedAhmed and he has fees of 55 $ he is special in Hospital Based Physician (Other) his working hours are: 9-16, he do his job in MILFORD\NSLAUGHTER BEACH
+ScottTurtle and he has fees of 67 $ he is special in Physical Therapy his working hours are: 9-15, he do his job in Livermore
+EthanMeisel and he has fees of 35 $ he is special in EM,EMH his working hours are: 10-16, he do his job in Bakersfield
+ChiragPatel and he has fees of 51 $ he is special in Cardiovascular Disease his working hours are: 9-16, he do his job in BROOKLYN
+TuDinh and he has fees of 41 $ he is special in Optometry his working hours are: 8-14, he do his job in PHILADELPHIA
+MatthewNeibaur and he has fees of 38 $ he is special in IM,CD his working hours are: 8-15, he do his job in JACKSONVILLE
+TheodoreDorsey and he has fees of 33 $ he is special in Physician Assistant his working hours are: 10-16, he do his job in MUSKEGON\NMESKEGON\NN MUSKEGON\NNORTH MUSKEGON
+CarrieBallard and he has fees of 36 $ he is special in Hospital Based Physician (Allied) his working hours are: 10-16, he do his job in CINCINNATI
+BrianWeirick and he has fees of 46 $ he is special in Internal Medicine his working hours are: 9-14, he do his job in CLINTON
+JoyMurphy and he has fees of 56 $ he is special in XNP,XNR his working hours are: 10-16, he do his job in GLENCOE\NELLISVILLE\NPOND\NWILDWOOD
+DavidBrandon and he has fees of 63 $ he is special in Specialist Anesthesiology his working hours are: 9-15, he do his job in BERLIN\NOCEAN PINES\NOCEAN PNES
+DavidTarkoff and he has fees of 45 $ he is special in Cardiovascular Disease his working hours are: 10-15, he do his job in NEW YORK\NEMPIRE STATE\NGREELEY SQUARE\NMACYS FINANCE\NMANHATTAN\NNEW YORK CITY\NNY CITY\NNYC
+DavidTarkoff and he has fees of 21 $ he is special in Internal Medicine his working hours are: 9-16, he do his job in NEW YORK\NEMPIRE STATE\NGREELEY SQUARE\NMACYS FINANCE\NMANHATTAN\NNEW YORK CITY\NNY CITY\NNYC
+LindaMcmahon and he has fees of 34 $ he is special in Certified Nurse Practitioner his working hours are: 10-15, he do his job in MOUNT HOLLY\NEASTAMPTN TWP\NEASTAMPTON\NEASTAMPTON TOWNSHIP\NMOUNT HOLLY TOWNSHIP\NWESTAMPTON\NWESTA
+DianaKoshy and he has fees of 50 $ he is special in OSH,IM his working hours are: 9-14, he do his job in DELAND\NGLENWOOD
+MarkZolman and he has fees of 23 $ he is special in Pain Management his working hours are: 10-15, he do his job in BERLIEN\NCROOKED LAKE\NFLINT\NFOX LAKE\NGLEN EDEN\NLAKE JAMES\NMETZ\NNEVADA MILLS\NANGOLA
+MayraCantu and he has fees of 33 $ he is special in Nurse Practitioner his working hours are: 8-15, he do his job in EDINBURG\NFAYSVILLE\NLULL\NRED GATE\NSAN CARLOS\NSAN JUAN COMMUNITY
+TikhonKim and he has fees of 32 $ he is special in Anesthesiology his working hours are: 8-15, he do his job in CLEVELAND\NCUYAHOGA HEIGHTS\NGARFIELD\NGARFIELD HEIGHTS\NGARFIELD HTS\NVALLEY VIEW
+HowardKirtland and he has fees of 45 $ he is special in Internal Medicine his working hours are: 9-15, he do his job in FRANKLIN\NROCKY GROVE
+SALLYLE and he has fees of 44 $ he is special in Dentists General Dentist his working hours are: 8-15, he do his job in TULSA
+RobertDonovan and he has fees of 61 $ he is special in Hospital Based Physician (Emergency Room) his working hours are: 10-16, he do his job in Emeryville
+RaviGalhotra and he has fees of 61 $ he is special in Internal Medicine his working hours are: 10-15, he do his job in AVONDALE
+DavidDrewitz and he has fees of 45 $ he is special in Specialist Gastroenterology his working hours are: 8-15, he do his job in PHOENIX
+JohnGira and he has fees of 67 $ he is special in Radiology his working hours are: 10-14, he do his job in MARIETTA
+ConradEhrlich and he has fees of 53 $ he is special in Radiology-Diagnostic his working hours are: 8-14, he do his job in DANBURY
+JacobKessler and he has fees of 48 $ he is special in XNP,ALH his working hours are: 9-16, he do his job in MANSFIELD\NLITTLE WASHINGTON\NPAVONIA
+RichardMcburney and he has fees of 23 $ he is special in Internal Medicine his working hours are: 8-14, he do his job in ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN
+ClintDoiron and he has fees of 56 $ he is special in IC,CD,IM his working hours are: 10-15, he do his job in NEWPORT
+DevinderSingh and he has fees of 31 $ he is special in Plastic Surgery his working hours are: 8-15, he do his job in BALTIMORE
+DevinderSingh and he has fees of 25 $ he is special in Surgery, Plastic and Reconstructive his working hours are: 8-16, he do his job in BALTIMORE
+DevinderSingh and he has fees of 36 $ he is special in Surgery, General his working hours are: 9-16, he do his job in BALTIMORE
+ChristineStathes and he has fees of 38 $ he is special in Physical Therapy his working hours are: 9-16, he do his job in BROOKLYN

@@ -1,0 +1,101 @@
+Our country have special group of doctors who can benefit the society:
+Emeryville has doctor AlexanderZlidenny his speciality is: Hospital Based Physician (Emergency Room) , his start working time is 9, each visit costs 32 $ and he ends his working hours at 15
+PHILADELPHIA has doctor Cvs #2704Cvs #2704 his speciality is: Pharmacy , his start working time is 9, each visit costs 27 $ and he ends his working hours at 16
+Sturgeon Bay                   has doctor HeidiDerbick his speciality is: Nurse/Nurse Practitioner , his start working time is 8, each visit costs 26 $ and he ends his working hours at 14
+NEW YORK\NMANHATTAN\NNYC has doctor GerardoFernandez his speciality is: Pathology , his start working time is 9, each visit costs 68 $ and he ends his working hours at 14
+SOUTH PORTLAND\NPORTLAND\NS PORTLAND\NSO PORTLAND has doctor ThomasMellow his speciality is: Pediatrics , his start working time is 8, each visit costs 58 $ and he ends his working hours at 14
+CHANDLER has doctor AmeeshGarg his speciality is: Specialist Nephrology , his start working time is 10, each visit costs 41 $ and he ends his working hours at 16
+MELROSE PARK has doctor CelinePele his speciality is: Hospital Based Physician (Allied) , his start working time is 9, each visit costs 68 $ and he ends his working hours at 15
+ORLANDO\NSAND LAKE has doctor SunilMuppala his speciality is: Hospital Based Physician (Anesthesiology) , his start working time is 8, each visit costs 47 $ and he ends his working hours at 14
+COLUMBUS has doctor BenjaminO Donnell his speciality is: Specialist Endocrinology , his start working time is 9, each visit costs 23 $ and he ends his working hours at 15
+ATHENS\NNAVY SUPPLY CORPS SCHOOL has doctor StevenBramlet his speciality is: RDH,DR,RNR , his start working time is 9, each visit costs 61 $ and he ends his working hours at 15
+GANSEVOORT\NFORTSVILLE\NGURN SPRING\NKINGS STATION\NWILTON has doctor Mary                     D`Aloia                             his speciality is: Midwifery , his start working time is 9, each visit costs 61 $ and he ends his working hours at 14
+MAITLAND\NEATONVILLE has doctor LuciaWebster his speciality is: XNA,ALH , his start working time is 9, each visit costs 31 $ and he ends his working hours at 16
+Torrance has doctor RonaldOudiz his speciality is: Internal Medicine , his start working time is 10, each visit costs 21 $ and he ends his working hours at 15
+EPHRATA\NCLAY\NDURLACH\NFARMERSVILLE\NHAHNSTOWN\NHINKLETOWN\NMURRELL\NNAPIERVILLE\NVOGANVILLE\NWEIDM has doctor TaraTrout his speciality is: Physician Assistant , his start working time is 10, each visit costs 46 $ and he ends his working hours at 14
+TOWSON\NEUDOWOOD\NRUXTON has doctor GailSchwartz his speciality is: Ophthalmology , his start working time is 9, each visit costs 64 $ and he ends his working hours at 15
+LAS VEGAS has doctor William                  Evans                               his speciality is: Pediatric Cardiology , his start working time is 9, each visit costs 63 $ and he ends his working hours at 14
+BETHPAGE has doctor StevenZeldis his speciality is: Cardiology , his start working time is 10, each visit costs 53 $ and he ends his working hours at 16
+JACKSONVILLE has doctor DineshPatel his speciality is: IM,CCM,PUD,SM,US , his start working time is 8, each visit costs 61 $ and he ends his working hours at 16
+VAN NUYS has doctor ToddMolnar his speciality is: Physical Medicine & Rehabilitation , his start working time is 9, each visit costs 51 $ and he ends his working hours at 16
+GARWOOD has doctor RobertLimani his speciality is: DR,RDH , his start working time is 9, each visit costs 31 $ and he ends his working hours at 16
+SCOTTSDALE has doctor MadhavanKrishnan his speciality is: Diabetes , his start working time is 8, each visit costs 62 $ and he ends his working hours at 16
+BLACKWOOD\NBLENHEIM\NCHEWS LANDING\NLAKELAND\NTURNERSVILLE has doctor StuartDubowitch his speciality is: Orthopaedic Surgery , his start working time is 9, each visit costs 34 $ and he ends his working hours at 14
+DENVER has doctor Virginia                 Richey                              his speciality is: Family Practice , his start working time is 8, each visit costs 67 $ and he ends his working hours at 14
+MIAMI\NCOCONUT GROVE\NCORAL GABLES\NSOUTH MIAMI\NUNIVERSITY OF MIAMI has doctor DeanRoller his speciality is: Cardiovascular Disease , his start working time is 8, each visit costs 33 $ and he ends his working hours at 15
+ALEXANDER CITY\NALEX CITY has doctor TimothyCorbin his speciality is: Family Medicine , his start working time is 10, each visit costs 31 $ and he ends his working hours at 16
+PARKER has doctor Denise                   Abdoo                               his speciality is: Nurse Practitioner , his start working time is 8, each visit costs 49 $ and he ends his working hours at 15
+CITYWIDE has doctor MiraflorReyes his speciality is: Pediatrics , his start working time is 8, each visit costs 31 $ and he ends his working hours at 15
+FRESNO has doctor KatherineGonzalez his speciality is: Certified Nurse Practitioner , his start working time is 8, each visit costs 62 $ and he ends his working hours at 16
+SILOAM SPGS\NSILOAM SPRINGS has doctor SatishMukka his speciality is: Hospital Based Physician (Other) , his start working time is 10, each visit costs 48 $ and he ends his working hours at 15
+NORTH LITTLE ROCK\NBAUCUM\NBOOKER\NGALLOWAY\NMARCHE\NMCALMONT\NN L R\NN LITTLE ROCK\NN LR\NNLR\NNO L has doctor TinaJones his speciality is: Pediatrics , his start working time is 8, each visit costs 60 $ and he ends his working hours at 16
+FARMINGTON\NTALCOTT VILLAGE\NTHE EXCHANGE AT TALCOTT VILL\NWEST FARMS MALL has doctor MonnicaWilliams his speciality is: Behavioral Health and Social Service Providers Psychology (Clinical) , his start working time is 8, each visit costs 57 $ and he ends his working hours at 14
+PARKERSBURG\NVIENNA has doctor TerryShank his speciality is: Radiology , his start working time is 10, each visit costs 44 $ and he ends his working hours at 14
+DAHLONEGA has doctor AimeeMesenburg his speciality is: Optometry , his start working time is 8, each visit costs 36 $ and he ends his working hours at 16
+SAINT PETERSBURG\NST PETERSBURG has doctor Priti                    Panchal                             his speciality is: Optometry , his start working time is 9, each visit costs 23 $ and he ends his working hours at 15
+DOTHAN\NREHOBETH\NTAYLOR has doctor JustinHovey his speciality is: IM,PD , his start working time is 9, each visit costs 43 $ and he ends his working hours at 14
+COLUMBUS has doctor PhilipGhally his speciality is: Internal Medicine , his start working time is 9, each visit costs 53 $ and he ends his working hours at 15
+PLEASANT PRAIRIE\NKENOSHA\NPLEASANT PR has doctor CarmenBergom his speciality is: Radiation Oncology , his start working time is 9, each visit costs 47 $ and he ends his working hours at 15
+MANITOWOC has doctor DavidSatchell his speciality is: General Surgery , his start working time is 8, each visit costs 23 $ and he ends his working hours at 16
+FRESNO has doctor DerekTaggard his speciality is: Neurosurgery , his start working time is 8, each visit costs 46 $ and he ends his working hours at 16
+FORKED RIVER\NLACEY has doctor JosephineFilardo his speciality is: Obstetrics & Gynecology , his start working time is 9, each visit costs 29 $ and he ends his working hours at 15
+ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN has doctor TanyaDavis his speciality is: Gastroenterology , his start working time is 8, each visit costs 38 $ and he ends his working hours at 16
+SCOTTSDALE has doctor PatriciaMayborne his speciality is: Nurse Practitioner , his start working time is 9, each visit costs 44 $ and he ends his working hours at 15
+OZONE PARK\NJAMAICA has doctor ElionoraSabzanov his speciality is: Dentists General Dentist , his start working time is 8, each visit costs 20 $ and he ends his working hours at 16
+Emeryville has doctor SaraTarjan his speciality is: Hospital Based Physician (Emergency Room) , his start working time is 10, each visit costs 42 $ and he ends his working hours at 14
+OMAHA has doctor ElizabethKlawitter his speciality is: Podiatrist , his start working time is 10, each visit costs 32 $ and he ends his working hours at 14
+FORT LAUDERDALE\NHOLLYWOOD\NPORT EVERGLADES has doctor Matthew                  Wells                               his speciality is: Sports Medicine , his start working time is 9, each visit costs 36 $ and he ends his working hours at 14
+CUMMING has doctor AliyaBynum his speciality is: Anesthesiology , his start working time is 9, each visit costs 36 $ and he ends his working hours at 16
+COLUMBIA\NBAYVIEW\NEDGEWOOD has doctor LoriLord his speciality is: Internal Medicine , his start working time is 8, each visit costs 42 $ and he ends his working hours at 14
+TEMPE has doctor MonicaJohnston his speciality is: Therapist Physical Therapy , his start working time is 8, each visit costs 33 $ and he ends his working hours at 15
+ASTORIA\NLONG ISLAND CITY has doctor PrincessSkyers his speciality is: Family Practice , his start working time is 8, each visit costs 65 $ and he ends his working hours at 15
+BOSTON has doctor MelissaBowlby his speciality is: Hospital Based Physician (Allied) , his start working time is 10, each visit costs 61 $ and he ends his working hours at 15
+DALLAS has doctor GlenHolley his speciality is: Hospital Based Physician (Anesthesiology) , his start working time is 8, each visit costs 45 $ and he ends his working hours at 14
+GREENVILLE has doctor MarthaShepard his speciality is: Physician Assistant , his start working time is 10, each visit costs 40 $ and he ends his working hours at 15
+FOUNTAIN VALLEY\NFOUNTAIN VLY\NSANTA ANA has doctor DennisBlasberg his speciality is: Diagnostic Radiology , his start working time is 10, each visit costs 32 $ and he ends his working hours at 16
+SUGAR LAND has doctor EddyYang his speciality is: Dentists Oral Surgery , his start working time is 8, each visit costs 67 $ and he ends his working hours at 14
+CINCINNATI has doctor ShannonStinson his speciality is: Hospital Based Physician (Emergency Room) , his start working time is 10, each visit costs 40 $ and he ends his working hours at 14
+GARRISON\NOWINGS MILLS has doctor Karen                    Babitt                              his speciality is: Internal Medicine , his start working time is 10, each visit costs 29 $ and he ends his working hours at 16
+WICHITA FALLS has doctor RichardEckert his speciality is: Psychology , his start working time is 9, each visit costs 49 $ and he ends his working hours at 16
+PITTSBURGH\NAVALON\NBELLEVUE\NBELLVUE\NBEN AVON\NBEN AVON HEIGHTS\NEMSWORTH\NPGH\NPITT has doctor DanielleSaad                                his speciality is: Clinical Social Work , his start working time is 8, each visit costs 28 $ and he ends his working hours at 15
+FRESNO has doctor JonathanCrosby his speciality is: Non Physician - Physician Assistant , his start working time is 9, each visit costs 46 $ and he ends his working hours at 14
+Banning has doctor BingPao his speciality is: Hospital Based Physician (Emergency Room) , his start working time is 10, each visit costs 20 $ and he ends his working hours at 14
+ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN has doctor CatherineSmart his speciality is: Nurse Practitioner , his start working time is 10, each visit costs 28 $ and he ends his working hours at 16
+TARPON SPRINGS\NTARPON SPGS\NTARPON SPNGS has doctor JamesGills his speciality is: Ophthalmology , his start working time is 8, each visit costs 31 $ and he ends his working hours at 14
+SYKESVILLE\NELDERSBURG\NGAITHER has doctor RobertSaltzman his speciality is: Surgery, Orthopedic , his start working time is 8, each visit costs 25 $ and he ends his working hours at 16
+Pierre                         has doctor DavidLonbaken his speciality is: Podiatry , his start working time is 9, each visit costs 20 $ and he ends his working hours at 16
+Moorestown                     has doctor MalloryJohnston his speciality is: Physical Therapy , his start working time is 10, each visit costs 62 $ and he ends his working hours at 15
+MIAMI\NCOCONUT GROVE\NCORAL GABLES has doctor FernandoDearmendi his speciality is: Specialist Cardiology , his start working time is 8, each visit costs 54 $ and he ends his working hours at 14
+Cottonwood has doctor Joyce                    Richards                            his speciality is: Gastroenterology;Internal Medicine , his start working time is 9, each visit costs 56 $ and he ends his working hours at 16
+DE PERE has doctor GregorySchuchard his speciality is: Cardiology , his start working time is 9, each visit costs 68 $ and he ends his working hours at 16
+LA JOLLA has doctor MichaelEhrenhaus his speciality is: Ophthalmology , his start working time is 10, each visit costs 41 $ and he ends his working hours at 14
+COLUMBUS has doctor LeonardUrbanski his speciality is: Hospital Based Physician (Emergency Room) , his start working time is 8, each visit costs 48 $ and he ends his working hours at 16
+PHILADELPHIA\N30TH ST TRAIN  POSTAL STR has doctor ADAMGLASOFER his speciality is: PRIMARY CARE PHYSICIANS PEDIATRICS , his start working time is 9, each visit costs 59 $ and he ends his working hours at 14
+DAYTON\NCENTERVILLE\NKETTERING\NWASHINGTO TWP\NWASHINGTON TOWNSHIP has doctor ThomasRuff his speciality is: IC,C,CD,IM , his start working time is 8, each visit costs 32 $ and he ends his working hours at 14
+NEW MARTINSVILLE\NN MARTINSVLLE has doctor NabielAlkhouri his speciality is: HEM,HO , his start working time is 8, each visit costs 20 $ and he ends his working hours at 14
+STATEN ISLAND has doctor CynthiaWong his speciality is: Internal Medicine , his start working time is 8, each visit costs 28 $ and he ends his working hours at 16
+SUMMERVILLE has doctor DominiqueDarby his speciality is: Professional Counselor , his start working time is 9, each visit costs 53 $ and he ends his working hours at 16
+ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN has doctor PatrickHealy his speciality is: Anesthesiology , his start working time is 9, each visit costs 40 $ and he ends his working hours at 16
+LEXINGTON has doctor NicholasWelker his speciality is: Non Physician - Nursing Related , his start working time is 10, each visit costs 42 $ and he ends his working hours at 14
+SAINT LOUIS\NROCK HILL\NSHREWSBURY\NWEBSTER GROVES\NWEBSTER GRVS has doctor MatthewBuck his speciality is: Chiropractor , his start working time is 9, each visit costs 23 $ and he ends his working hours at 16
+SWEETWATER has doctor IanMckinley his speciality is: Physical Therapy , his start working time is 10, each visit costs 64 $ and he ends his working hours at 16
+LA JOLLA has doctor JohnSerra his speciality is: Emergency Medicine , his start working time is 9, each visit costs 48 $ and he ends his working hours at 15
+ROYAL OAK has doctor MaryElnick his speciality is: Hospitalist , his start working time is 9, each visit costs 52 $ and he ends his working hours at 16
+SAVANNAH has doctor JamesThomas his speciality is: Family Practice , his start working time is 9, each visit costs 64 $ and he ends his working hours at 15
+WINTER PARK has doctor JasonMcWhirter his speciality is: Chiropractic , his start working time is 8, each visit costs 53 $ and he ends his working hours at 15
+BROOKLYN has doctor RonMaimon his speciality is: DR,RDH , his start working time is 10, each visit costs 42 $ and he ends his working hours at 14
+DECATUR\NNORTH DECATUR\NVISTA GROVE has doctor EvanHouck his speciality is: Hospital Based Physician (Emergency Room) , his start working time is 8, each visit costs 55 $ and he ends his working hours at 15
+CITYWIDE has doctor LukeMarone his speciality is: Surgery - Vascular , his start working time is 9, each visit costs 51 $ and he ends his working hours at 16
+LADY LAKE\NTHE VILLAGES has doctor RonaldTrevisani his speciality is: SURGERY, ORAL AND MAXILLOFACIAL , his start working time is 8, each visit costs 67 $ and he ends his working hours at 16
+COLORADO SPRINGS\NCO SPGS\NSTRATMOOR HILLS has doctor ThomasMinor his speciality is: PUD,OSH , his start working time is 10, each visit costs 22 $ and he ends his working hours at 14
+PEORIA has doctor DeanAnderson his speciality is: Nurse/Nurse Practitioner , his start working time is 9, each visit costs 47 $ and he ends his working hours at 14
+CLINTWOOD\NHONEYCAMP has doctor BernieSergent his speciality is: IM,OST , his start working time is 9, each visit costs 26 $ and he ends his working hours at 15
+MILWAUKEE has doctor JeremyGroth his speciality is: Anesthesiology , his start working time is 9, each visit costs 29 $ and he ends his working hours at 14
+WALNUT CREEK has doctor DianaSuperfin his speciality is: HEM,IM,ON , his start working time is 9, each visit costs 20 $ and he ends his working hours at 14
+SAN JOSE has doctor MarilynButler his speciality is: PDS,GS , his start working time is 8, each visit costs 45 $ and he ends his working hours at 15
+CHICAGO has doctor MinaMassey his speciality is: Family Practice , his start working time is 10, each visit costs 38 $ and he ends his working hours at 16
+SAN FRANCISCO has doctor LaurenceBaskin his speciality is: Pediatric Urology , his start working time is 10, each visit costs 25 $ and he ends his working hours at 14
+SAINT LOUIS has doctor JeremyBroadnax his speciality is: Pain Medicine , his start working time is 10, each visit costs 52 $ and he ends his working hours at 14
+LOS ANGELES has doctor IramDubin his speciality is: Radiology , his start working time is 10, each visit costs 30 $ and he ends his working hours at 16
+ORLANDO\NSAND LAKE has doctor BrentSchaffner his speciality is: Emergency Medicine , his start working time is 9, each visit costs 57 $ and he ends his working hours at 14
+LOUISVILLE\NSAINT MATTHEWS\NST MATTHEWS has doctor Kelly                    Gollar                              his speciality is: Nurse Practitioner , his start working time is 10, each visit costs 56 $ and he ends his working hours at 16

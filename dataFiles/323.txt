@@ -1,0 +1,101 @@
+For everyone, here is each doctor we have in our country:
+CINCINNATI\NFAIRFAX\NMARIEMONT has doctor MarkBergmann who works in, his speciality is: Critical Care Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 53 $
+WESTLAKE VILLAGE\NHIDDEN VALLEY\NLAKE SHERWOOD\NTHOUSAND OAKS has doctor AndrewShubov who works in, his speciality is: Acupuncture , his working time is from 8 and he ends his working at 14, each visit cost is 54 $
+WESTLAKE VILLAGE\NHIDDEN VALLEY\NLAKE SHERWOOD\NTHOUSAND OAKS has doctor AndrewShubov who works in, his speciality is: Internal Medicine , his working time is from 10 and he ends his working at 15, each visit cost is 36 $
+KNOXVILLE\NKIMBERLIN HEIGHTS CPO\NKIMBERLIN HGT has doctor DavidRatliff who works in, his speciality is: Crna , his working time is from 8 and he ends his working at 15, each visit cost is 38 $
+LOS ANGELES\NBOYLE HEIGHTS has doctor ManjunathVadmal who works in, his speciality is: D,PTH , his working time is from 10 and he ends his working at 15, each visit cost is 35 $
+LOS ANGELES has doctor KanwarpalKahlon who works in, his speciality is: HEM,IM,ON,OSH , his working time is from 9 and he ends his working at 16, each visit cost is 54 $
+GASTONIA\NRAGAN VILLAGE\NRANLO\NSPENCER MOUNTAIN has doctor BogdanIrimies who works in, his speciality is: Hospital Based Physician (Emergency Room) , his working time is from 9 and he ends his working at 16, each visit cost is 60 $
+CHICAGO has doctor ChristineSwanson who works in, his speciality is: Non Physician - Nursing Related , his working time is from 10 and he ends his working at 16, each visit cost is 53 $
+LA CIENGA\NSANTA FE has doctor JoshuaBrown who works in, his speciality is: Internal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 29 $
+SHOW LOW\NSHUMWAY has doctor JenniferRivera who works in, his speciality is: Behavioral Health , his working time is from 8 and he ends his working at 16, each visit cost is 53 $
+BOSTON\NDORCHESTER\NDORCHESTER CENTER\NDORCHESTR CTR has doctor George                   Gales                               who works in, his speciality is: Internal Medicine , his working time is from 8 and he ends his working at 16, each visit cost is 23 $
+ATLANTA has doctor RogerHatcher who works in, his speciality is: Hospital Based Physician (Allied) , his working time is from 9 and he ends his working at 16, each visit cost is 63 $
+Modesto has doctor GregoryHartt who works in, his speciality is: Physician Assistant , his working time is from 10 and he ends his working at 15, each visit cost is 51 $
+ALBUQUERQUE\NFIVE POINTS has doctor AnisManshad who works in, his speciality is: Dentists General Dentist , his working time is from 10 and he ends his working at 16, each visit cost is 32 $
+HOUSTON\NASTRODOME\NASTROWORLD has doctor SanjayMehta who works in, his speciality is: Specialist Radiation Oncology , his working time is from 8 and he ends his working at 15, each visit cost is 66 $
+NEWARK has doctor MyungLee who works in, his speciality is: Radiology , his working time is from 8 and he ends his working at 15, each visit cost is 49 $
+SOUTHFIELD has doctor AugustoJamora who works in, his speciality is: Psychiatry , his working time is from 8 and he ends his working at 16, each visit cost is 58 $
+HOUSTON has doctor CodyArnold who works in, his speciality is: NEONATOLOGY & PERINATOLOGY , his working time is from 10 and he ends his working at 14, each visit cost is 41 $
+INDIANAPOLIS\NNORA has doctor ShawnChen who works in, his speciality is: Respiratory Medicine , his working time is from 9 and he ends his working at 15, each visit cost is 29 $
+CITYWIDE has doctor ThomasWaldinger who works in, his speciality is: Dermatology , his working time is from 8 and he ends his working at 15, each visit cost is 63 $
+CITYWIDE has doctor ThomasWaldinger who works in, his speciality is: General Practice , his working time is from 8 and he ends his working at 16, each visit cost is 58 $
+SPOKANE\NLIBERTY PARK has doctor brar bani who works in, his speciality is: Ambulatory Surgery Center , his working time is from 9 and he ends his working at 15, each visit cost is 20 $
+GAITHERSBURG\NMONTGOMERY VILLAGE\NMONTGOMRY VLG has doctor SaraFeldman who works in, his speciality is: Behavioral Health and Social Service Providers Social Worker , his working time is from 9 and he ends his working at 15, each visit cost is 26 $
+CHARLOTTE has doctor GailBayliss who works in, his speciality is: Emergency Medicine , his working time is from 8 and he ends his working at 16, each visit cost is 37 $
+MUNCIE\NBREWINGTON WDS\NBREWINGTON WOODS\NCAMMACK\NWEST ACRES\NWESTPORT ADDITION\NWESTPORT ADDN has doctor BrandyLopilato who works in, his speciality is: MEDICAL PRACTITIONERS Certified Nurse Practitioner , his working time is from 9 and he ends his working at 15, each visit cost is 53 $
+CORAOPOLIS\NCARPOLIS\NCOROPOLIS\NMOON TOWNSHIP\NMOON TWP has doctor John                     Mellinger                           who works in, his speciality is: Obstetrics And Gynecology , his working time is from 10 and he ends his working at 16, each visit cost is 56 $
+FLAGSTAFF has doctor MarkKnapp who works in, his speciality is: Physician Assistant , his working time is from 9 and he ends his working at 14, each visit cost is 35 $
+MOUNT LAUREL\NMASONVILLE\NMOUNT LAUREL TOWNSHIP\NRANCOCAS WOODS has doctor LeahLohr who works in, his speciality is: Nurse Anesthetist , his working time is from 9 and he ends his working at 16, each visit cost is 24 $
+VAIL\NEAST VAIL\NWEST VAIL has doctor STEPHANIEATENCIO who works in, his speciality is: Specialist Anesthesiology , his working time is from 8 and he ends his working at 16, each visit cost is 46 $
+WESTERVILLE has doctor MarkThompson who works in, his speciality is: Oncology , his working time is from 10 and he ends his working at 15, each visit cost is 58 $
+WESTERVILLE has doctor MarkThompson who works in, his speciality is: Internal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 25 $
+ROSWELL has doctor RyanMarkus who works in, his speciality is: Physical Therapy , his working time is from 8 and he ends his working at 16, each visit cost is 62 $
+Corona has doctor AzaThompson who works in, his speciality is: Chiropractic , his working time is from 9 and he ends his working at 16, each visit cost is 21 $
+LOS ANGELES\NBICENTENNIAL\NBRIGGS\NW HOLLYWOOD\NWEST HOLLYWOOD has doctor AshaPuri who works in, his speciality is: Neonatal-Perinatal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 22 $
+LOS ANGELES\NBICENTENNIAL\NBRIGGS\NW HOLLYWOOD\NWEST HOLLYWOOD has doctor AshaPuri who works in, his speciality is: Neonatology , his working time is from 9 and he ends his working at 14, each visit cost is 67 $
+JACKSONVILLE has doctor JohnRoberts who works in, his speciality is: GA Rehab Supplier , his working time is from 8 and he ends his working at 16, each visit cost is 42 $
+SAN ANTONIO has doctor MichaelLozano who works in, his speciality is: Internal Medicine , his working time is from 9 and he ends his working at 15, each visit cost is 21 $
+CHICAGO HEIGHTS\NCHICAGO HTS\NFORD HEIGHTS\NLYNWOOD\NOTTO MALL\NS CHICAGO HEI\NS CHICAGO HEIGHTS\NS  has doctor KathleenMisek who works in, his speciality is: Hospital Based Physician (Allied) , his working time is from 10 and he ends his working at 14, each visit cost is 40 $
+MISHAWAKA has doctor DerekMaul who works in, his speciality is: Chiropractor , his working time is from 10 and he ends his working at 14, each visit cost is 31 $
+SUISUN CITY\NBIRDS LNDG has doctor RobertBaker who works in, his speciality is: Physical Therapy , his working time is from 9 and he ends his working at 14, each visit cost is 60 $
+PALM HARBOR has doctor CatherineDi Giammo who works in, his speciality is: Chiropractic , his working time is from 10 and he ends his working at 15, each visit cost is 67 $
+LITTLE ROCK has doctor Mary                     Meek                                who works in, his speciality is: Diagnostic Radiology;Vascular Interven Radiology , his working time is from 9 and he ends his working at 14, each visit cost is 38 $
+BACONE\NBELAND\NKEEFETON\NMARTIN\NMCLAIN\NSUMMITT\NWYBARK\NMUSKOGEE has doctor PennySmythe who works in, his speciality is: Optometrist , his working time is from 9 and he ends his working at 15, each visit cost is 20 $
+Alhambra has doctor SamuelWhitaker who works in, his speciality is: Pediatric Otolaryngology , his working time is from 10 and he ends his working at 16, each visit cost is 33 $
+GOLETA\NSANTA BARBARA has doctor BenjaminDiener who works in, his speciality is: Hospital Based Physician (Other) , his working time is from 9 and he ends his working at 14, each visit cost is 45 $
+CHARLESTON has doctor AudreyHunt who works in, his speciality is: Ophthalmology , his working time is from 9 and he ends his working at 15, each visit cost is 28 $
+Larkspur has doctor BrianDemuth who works in, his speciality is: OBG,OSH , his working time is from 9 and he ends his working at 16, each visit cost is 22 $
+ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN has doctor AlexanderBressler who works in, his speciality is: Family Practice , his working time is from 10 and he ends his working at 14, each visit cost is 51 $
+CAMDEN has doctor SheldonSiegel who works in, his speciality is: Surgery, Ankle / Foot , his working time is from 8 and he ends his working at 14, each visit cost is 30 $
+PHILADELPHIA has doctor KristenSlabaugh who works in, his speciality is: Non Physician - Nursing Related , his working time is from 8 and he ends his working at 15, each visit cost is 58 $
+BLOSSOM VALLEY\NMT VIEW\NMOUNTAIN VIEW has doctor SungChun who works in, his speciality is: Cardiac Electrophysiology;Cardiovascular Diseases;Internal Medicine , his working time is from 9 and he ends his working at 16, each visit cost is 62 $
+CHICAGO has doctor KimberlyJohnson who works in, his speciality is: Anesthesiology , his working time is from 10 and he ends his working at 15, each visit cost is 50 $
+CHICAGO has doctor KimberlyJohnson who works in, his speciality is: Nurse Practitioner , his working time is from 10 and he ends his working at 14, each visit cost is 30 $
+CHICAGO has doctor KimberlyJohnson who works in, his speciality is: Family Practice , his working time is from 10 and he ends his working at 16, each visit cost is 24 $
+SANDY PLAINS\NROSWELL has doctor TeresaLane who works in, his speciality is: Certified Nurse Practitioner , his working time is from 9 and he ends his working at 16, each visit cost is 51 $
+CHANDLER has doctor ThomasBratcher who works in, his speciality is: Physical Therapy , his working time is from 10 and he ends his working at 15, each visit cost is 63 $
+LONG BRANCH\NELBERON\NNORTH LONG BRANCH\NWEST END has doctor CharlesMattina who works in, his speciality is: Cardiovascular Disease , his working time is from 9 and he ends his working at 16, each visit cost is 29 $
+LONG BRANCH\NELBERON\NNORTH LONG BRANCH\NWEST END has doctor CharlesMattina who works in, his speciality is: Internal Medicine , his working time is from 9 and he ends his working at 14, each visit cost is 30 $
+DANVILLE\NCENTRAL PARK\NHEGELER has doctor KevalPatel who works in, his speciality is: Infectious Diseases , his working time is from 9 and he ends his working at 15, each visit cost is 68 $
+DANVILLE\NCENTRAL PARK\NHEGELER has doctor KevalPatel who works in, his speciality is: Internal Medicine , his working time is from 9 and he ends his working at 16, each visit cost is 66 $
+IRETON\NMCNALLY has doctor DaleNystrom who works in, his speciality is: Primary Care Physicians Family Medicine , his working time is from 10 and he ends his working at 16, each visit cost is 39 $
+MELBOURNE has doctor ThomasHenry who works in, his speciality is: Diagnostic Radiology , his working time is from 9 and he ends his working at 15, each visit cost is 51 $
+ALBANY\NCOLONIE\NCOLONIE CENTER\NROESSLEVILLE has doctor Kirsten                  Cestaro                             who works in, his speciality is: Radiology (hospital based) , his working time is from 10 and he ends his working at 15, each visit cost is 38 $
+MIAMI\NKENDALL\NSOUTH MIAMI has doctor SENGLAM who works in, his speciality is: MEDICAL PRACTITIONERS CRNA , his working time is from 10 and he ends his working at 15, each visit cost is 29 $
+MADISON has doctor SarraMerritt who works in, his speciality is: Surgery - General , his working time is from 10 and he ends his working at 15, each visit cost is 45 $
+STATEN ISLAND has doctor JohnDonati who works in, his speciality is: Pediatric , his working time is from 9 and he ends his working at 16, each visit cost is 54 $
+LUGOFF has doctor JamesMcAlpine who works in, his speciality is: Internal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 51 $
+GURNEE has doctor ValentinaPolyak who works in, his speciality is: Internal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 44 $
+Glendale has doctor Samantha                 Medina                              who works in, his speciality is: Family Practice;Obstetrics and Gynecology , his working time is from 8 and he ends his working at 16, each visit cost is 49 $
+YONKERS has doctor NiravPatel who works in, his speciality is: Vascular Surgery , his working time is from 8 and he ends his working at 15, each visit cost is 44 $
+YONKERS has doctor NiravPatel who works in, his speciality is: Surgery, General , his working time is from 8 and he ends his working at 16, each visit cost is 32 $
+WESTMINSTER has doctor MansoorMalik who works in, his speciality is: Specialist Psychiatry , his working time is from 9 and he ends his working at 15, each visit cost is 46 $
+FRESNO has doctor VirgilAirola who works in, his speciality is: Pediatric Anesthesiology , his working time is from 9 and he ends his working at 15, each visit cost is 36 $
+Emeryville has doctor JenniferLesso who works in, his speciality is: ALH,XNP , his working time is from 8 and he ends his working at 15, each visit cost is 35 $
+MAITLAND\NEATONVILLE has doctor BlancheStokley who works in, his speciality is: Lic Prof Counselor , his working time is from 9 and he ends his working at 16, each visit cost is 59 $
+MEMPHIS\NBARTLETT\NMPHS has doctor Carter                   McDaniel                            who works in, his speciality is: Surgery , his working time is from 8 and he ends his working at 15, each visit cost is 35 $
+GREENVILLE has doctor StanleyVon Hofe who works in, his speciality is: Internal Medicine , his working time is from 9 and he ends his working at 14, each visit cost is 57 $
+ROUND LAKE\NHAINESVILLE\NROUND LAKE BEACH\NROUND LAKE HEIGHTS\NROUND LAKE PARK\NROUND LK BCH\NROUND  has doctor MushtaqMohammed who works in, his speciality is: Hospital Based Physician (Other) , his working time is from 9 and he ends his working at 14, each visit cost is 29 $
+NEW YORK has doctor CelineGounder who works in, his speciality is: Internal Medicine , his working time is from 9 and he ends his working at 14, each visit cost is 20 $
+ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN has doctor AnthonyCapito who works in, his speciality is: Plastic Surgery , his working time is from 9 and he ends his working at 16, each visit cost is 49 $
+NEW CASTLE\NCASTLE\NNESHANNOCK has doctor KaylaMcgregor who works in, his speciality is: XPA,ALH , his working time is from 10 and he ends his working at 15, each visit cost is 46 $
+FORT WORTH\NWESTOVER HILLS has doctor MarshallPackard who works in, his speciality is: Primary Care Physicians Internal Medicine , his working time is from 8 and he ends his working at 16, each visit cost is 44 $
+SAINT LOUIS has doctor KristalWolfe who works in, his speciality is: Hospital Based Physician (Other) , his working time is from 9 and he ends his working at 15, each visit cost is 39 $
+MUSKEGO has doctor DavidKlumpp who works in, his speciality is: Occupational Therapist , his working time is from 10 and he ends his working at 14, each visit cost is 51 $
+ATLANTA NAVAL AIR STATION\NDOBBINS A F B\NMARIETTA has doctor PerryBusbee who works in, his speciality is: Obstetrics And Gynecology , his working time is from 9 and he ends his working at 16, each visit cost is 29 $
+Glendale has doctor EdwardHancock who works in, his speciality is: Diagnostic Radiology , his working time is from 8 and he ends his working at 14, each visit cost is 48 $
+HUBBARD WOODS\NNORTHFIELD\NWINNETKA has doctor DonnaBicknese who works in, his speciality is: Internal Medicine , his working time is from 8 and he ends his working at 15, each visit cost is 23 $
+ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN has doctor JohnRussell who works in, his speciality is: General Practice , his working time is from 10 and he ends his working at 16, each visit cost is 51 $
+LEBANON has doctor Jessica                  McKinley                            who works in, his speciality is: Nurse Practitioner , his working time is from 10 and he ends his working at 15, each visit cost is 33 $
+LINDEN\NTREMLEY\NTREMLEY POINT\NWINFIELD PARK has doctor MarkGhobrial who works in, his speciality is: Orthopedics , his working time is from 8 and he ends his working at 16, each visit cost is 39 $
+LOUISVILLE has doctor ReidHarrison who works in, his speciality is: Physical Therapy , his working time is from 10 and he ends his working at 14, each visit cost is 26 $
+PEORIA has doctor JanelleGaddis who works in, his speciality is: Nurse/Nurse Practitioner , his working time is from 10 and he ends his working at 16, each visit cost is 59 $
+Sterling Heights               has doctor LionelBodzin who works in, his speciality is: Orthopedics/Orthopedic Su , his working time is from 8 and he ends his working at 16, each visit cost is 41 $
+LOUISVILLE has doctor RamziNassar who works in, his speciality is: Nephrology , his working time is from 9 and he ends his working at 14, each visit cost is 45 $
+NEW YORK\NMANHATTAN\NNYC has doctor RobertBaldino who works in, his speciality is: Mental Health , his working time is from 8 and he ends his working at 16, each visit cost is 20 $
+NEW YORK\NMANHATTAN\NNYC has doctor RobertBaldino who works in, his speciality is: Certified Social Work , his working time is from 9 and he ends his working at 14, each visit cost is 54 $
+TUCSON has doctor LindaWilliams who works in, his speciality is: Primary Care Physicians Family Medicine , his working time is from 10 and he ends his working at 16, each visit cost is 27 $
+MARIETTA\NATLANTA NAVAL AIR STATION\NDOBBINS A F B has doctor DavidGale who works in, his speciality is: PMD,AN , his working time is from 8 and he ends his working at 15, each visit cost is 53 $
+BOONVILLE\NBILLINGSVILLE\NCLARKS FORK\NGOOCH MILL\NLAMINE\NOVERTON\NSPEED has doctor JohnVan Stone who works in, his speciality is: Nephrology , his working time is from 10 and he ends his working at 14, each visit cost is 43 $
+HAMDEN\NCENTERVILLE-MOUNT CARMEL\NMOUNT CARMEL\NNEW HAVEN has doctor MichaelSchultz who works in, his speciality is: Physician Assistant , his working time is from 10 and he ends his working at 15, each visit cost is 41 $

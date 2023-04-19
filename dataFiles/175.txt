@@ -1,0 +1,101 @@
+ those are list of doctors, who are unique and do their work well: 
+DerrickSingleton from OSCEOLA ,the doctor has a speciality in Behavioral Health and Social Service Providers Professional Counselor and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 39$
+JohnHewitt from GREENSBORO\NCOUNTRY PARK ACRES\NGUILFORD COURTHOUSE NATIONAL\NPLAZA ,the doctor has a speciality in Specialist Orthopedic Surgery and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 54$
+StevenJacobs from LINDENHURST\NHEER PARK\NN LINDENHURST\NNORTH LINDENHURST ,the doctor has a speciality in Family and General Practice and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 20$
+JulianMirman from Glendale ,the doctor has a speciality in Anesthesiology and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 38$
+JasonBrooks from SHEBOYGAN ,the doctor has a speciality in Ophthalmology and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 48$
+PatriciaLayton from PHOENIX ,the doctor has a speciality in Physician Assistant and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 46$
+NigelBrayer from BROADVIEW HTS\NBROADVIEW HEIGHTS ,the doctor has a speciality in Chiropractor and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 68$
+BarryPaull from ORANGE ,the doctor has a speciality in NM,R and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 22$
+GeorgeWong from VIRGINIA BEACH ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 52$
+PatrickMaher from LAWRENCEVILLE ,the doctor has a speciality in Specialist Anesthesiology and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 64$
+RodneyCollins from ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN ,the doctor has a speciality in General Practice and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 39$
+RanjitMathew from ATHENS\NNAVY SUPPLY CORPS SCHOOL ,the doctor has a speciality in Specialist Gastroenterology and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 29$
+WeiSung from GARDEN CITY\NGARDEN CITY SOUTH\NMITCHELL FIELD\NROOSEVELT FIELD\NSTEWART MANOR ,the doctor has a speciality in NM,DR and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 41$
+MahyarGhanaat from NEW YORK\NMANHATTAN\NNYC ,the doctor has a speciality in Radiology and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 55$
+GiladGross from SAINT LOUIS\NRICHMOND HEIGHTS\NRICHMOND HTS ,the doctor has a speciality in MFM,OBG and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 35$
+JohnLilly from SPRINGFIELD ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 31$
+JavierRios from Riverside ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 49$
+SatinderAjrawat from BALTIMORE ,the doctor has a speciality in Hospital Based Physician (Anesthesiology) and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 69$
+MargaretHutchins from LOMA LINDA\NNORTH LOMA LINDA ,the doctor has a speciality in Non Physician - Nursing Related and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 63$
+AshokGupta from LAS VEGAS\NARDEN ,the doctor has a speciality in Hospital Based Physician (Radiology) and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 24$
+ChandiniHudson from STATEN ISLAND ,the doctor has a speciality in Dentistry and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 51$
+RobertGlazewski from Emeryville ,the doctor has a speciality in Hospital Based Physician (Allied) and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 39$
+MarthaWelman from ALEXANDRIA\NGEORGE WASHINGTON ,the doctor has a speciality in Pediatrics and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 28$
+JaneMattson from NORWALK ,the doctor has a speciality in Life Care Planner and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 59$
+GeorgeSanborn from RICHMOND\NWESTHAMPTON ,the doctor has a speciality in Ophthalmology and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 38$
+MartinKay from BAYSIDE\NFLUSHING ,the doctor has a speciality in CD,IM and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 60$
+JamesWorledge from MADISON\NFITCHBURG\NMONONA ,the doctor has a speciality in Psychiatry and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 23$
+ArieleKeats from CHICAGO\NRAVENSWOOD ,the doctor has a speciality in Certified Nurse Anesthetist and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 28$
+DeanPolistina from NEW YORK\NMANHATTAN\NNYC ,the doctor has a speciality in Ophthalmology and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 54$
+TBrattain from PEORIA\NPOTTSTOWN ,the doctor has a speciality in Podiatry and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 26$
+Emma                     Wilson                              from ALEXANDRIA\NALEX ,the doctor has a speciality in Physicians Assistant and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 40$
+JohnMcdonough from FLEMINGTON ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 33$
+NicoleSalomone from MANASSAS\NSUDLEY SPGS\NSUDLEY SPRINGS ,the doctor has a speciality in Optometry and the doctor starts his working hours in these times: 10 - 16 each visit cost is: 35$
+JohnMaher from BOWMAN\NBUFFALO SPRINGS\NGRIFFIN\NLADD ,the doctor has a speciality in Diagnostic Radiology and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 37$
+AhmedHashim from LAWTON\NSELMER ,the doctor has a speciality in Immunology and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 44$
+NiveditaMore from Fremont ,the doctor has a speciality in Pediatrics and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 59$
+LisaHicks from ENGLEWOOD\NCENTENNIAL\NCHERRY HILLS VILLAGE\NCHERRY HL VLG\NGREENWOOD VILLAGE\NGREENWOOD VLG ,the doctor has a speciality in XNA,ALH and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 35$
+DanielJaramillo from LOS BANOS ,the doctor has a speciality in Hospital Based Physician (Allied) and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 56$
+GlennPerry from CHARLOTTE ,the doctor has a speciality in Orthopedic Surgery and the doctor starts his working hours in these times: 10 - 16 each visit cost is: 41$
+Yvonne                   Yao                                 from KENT ,the doctor has a speciality in Obstetrics And Gynecology and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 29$
+LeslieBolander from MARICOPA ,the doctor has a speciality in Certified Nurse Midwife and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 34$
+ReneeAsh from CINCINNATI\NBRIDGETOWN\NCHEVIOT\NFAIRMONT\NMACK ,the doctor has a speciality in Podiatric Surgery and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 34$
+ReneeAsh from CINCINNATI\NBRIDGETOWN\NCHEVIOT\NFAIRMONT\NMACK ,the doctor has a speciality in Podiatry and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 60$
+RolandoDegoma from PENNINGTON ,the doctor has a speciality in Cardiology and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 43$
+VictoriaCavalli from NORTH ADAMS\NCLARKSBURG\NN ADAMS\NNO ADAMS ,the doctor has a speciality in Clinical & Laboratory Dermatological Immunology and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 21$
+ShaleImeson from Stockton ,the doctor has a speciality in Anesthesiology and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 31$
+SherryStorm from BATAVIA\NSTONELICK ,the doctor has a speciality in Hospital Based Physician (Allied) and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 32$
+LisaParker from CHICAGO ,the doctor has a speciality in FP,EM,EMH and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 54$
+RobertHammer from SHIVELY\NLOUISVILLE ,the doctor has a speciality in Pediatrics and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 63$
+IanHaycocks from LITITZ\NBRICKERVILLE\NBRUNNERVILLE\NFAIRLAND\NHALFVILLE\NKISSEL HILL\NLEXINGTON\NLIME ROCK\NMILLWAY\ ,the doctor has a speciality in Diagnostic Radiology and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 68$
+JohnRozanski from FORT LAUDERDALE\NHOLLYWOOD\NPORT EVERGLADES ,the doctor has a speciality in CD,IM and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 52$
+JosephRahman from Sacramento ,the doctor has a speciality in CD,C,IM and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 47$
+AnilKopparapu from KINGSPORT\NCPU BLOOMINGDALE ,the doctor has a speciality in Hospital Based Physician (Other) and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 64$
+StephanieCohen from BRONX\NBOULEVARD\NLONGWOOD ,the doctor has a speciality in DR,RDH and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 51$
+LatoniaTrawick from CHICAGO ,the doctor has a speciality in Hospital Based Physician (Allied) and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 45$
+BarryWalters from RANDALLSTOWN\NFOXRIDGE\NMCDONOGH RUN ,the doctor has a speciality in CD,D,IM and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 61$
+JamesBradwell from MONTGOMERY ,the doctor has a speciality in OSH,EMH and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 24$
+RobertWright from ANN ARBOR ,the doctor has a speciality in Behavioral Health and Social Service Providers Professional Counselor and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 67$
+AvaneePatel from ENGLEWOOD ,the doctor has a speciality in Obstetrics and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 31$
+ShelbySanford from WINFIELD ,the doctor has a speciality in Radiation Oncology and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 42$
+Serc,,Serc from CHATTANOOGA ,the doctor has a speciality in Physical Therapy and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 34$
+DavidAustin from LOS ANGELES\NBICENTENNIAL\NBRIGGS\NW HOLLYWOOD\NWEST HOLLYWOOD ,the doctor has a speciality in Internal Medicine and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 40$
+EricRosenberg from Riverhead ,the doctor has a speciality in Ophthalmology and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 33$
+GeraldArnett from CINCINNATI\NCLIFTON\NCORRYVILLE\NMT AUBURN ,the doctor has a speciality in Dentists General Dentist and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 35$
+CraigBuettner from TUSCALOOSA ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 60$
+DonaldCox from SOUTHFIELD ,the doctor has a speciality in Infectious Diseases;Internal Medicine and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 39$
+DarrenBrucken from TERRE HAUTE\NALLENDALE\NDOWDEN ACRES\NHOLLY HILLS\NHONEY CREEK SQUARE\NKELLER\NKINGSWOOD TERRA\NLAKE ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 68$
+John                     Respass                             from POUGHKEEPSIE ,the doctor has a speciality in Cardiac Electrophysiology;Cardiovascular Diseases and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 63$
+DanielSchneider from LOUP CITY\NOAK CREEK\NSHERMAN LAKE ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 68$
+KatrinaWade from PITTSBURGH ,the doctor has a speciality in Non Physician - Physician Assistant and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 37$
+BalBhandari from ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN ,the doctor has a speciality in Multi-Specialty Group and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 26$
+JaredStanton from JOPLIN ,the doctor has a speciality in PRC,POD and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 46$
+JocelynSantos from BONITA\NCHIRICAHUA NATIONAL MONUMENT\NDOS CABEZAS\NFORT GRANT\NFT GRANT\NKANSAS SETTLEMENT\NKLONDYKE ,the doctor has a speciality in Internal Medicine and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 39$
+ScottKempton from SAINT JOSEPH ,the doctor has a speciality in Family Practice and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 22$
+WilliamDevos from BIRMINGHAM ,the doctor has a speciality in Hospital Based Physician (Pathology) and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 62$
+WilliamFrederick from LOS ANGELES ,the doctor has a speciality in Hospital Based Physician (Other) and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 27$
+SajelAlreja from NAPERVILLE ,the doctor has a speciality in Physical Therapist and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 39$
+Patrick                  Bannon                              from BRADFORD\NKENDALL CREEK ,the doctor has a speciality in Cardiovascular Diseases;Internal Medicine and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 54$
+Meredith                 Broderick                           from SEATTLE\NEAST UNION ,the doctor has a speciality in Neurology;Sleep Medicine and the doctor starts his working hours in these times: 10 - 15 each visit cost is: 62$
+KeashaKuhnen from SAN JOSE ,the doctor has a speciality in Hospital Based Physician (Emergency Room) and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 54$
+AllanHorwitz from Berkeley ,the doctor has a speciality in Physical Therapy and the doctor starts his working hours in these times: 10 - 16 each visit cost is: 44$
+JohnDistazio from UNIONTOWN\NOLIPHANT FURNACE ,the doctor has a speciality in Podiatrist and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 50$
+Kamini                   Patel                               from MESA ,the doctor has a speciality in Internal Medicine and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 47$
+GaryMoskowitz from PLAINVIEW ,the doctor has a speciality in Internal Medicine and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 23$
+MariHagiwara from BROOKLYN ,the doctor has a speciality in RNR,DR,RDH and the doctor starts his working hours in these times: 10 - 16 each visit cost is: 54$
+MarkSpiro from BERWYN\NSTICKNEY ,the doctor has a speciality in Hospital Based Physician (Emergency Room) and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 27$
+BrandyEvans from MIAMI BEACH\NCARL FISHER\NFISHER ISLAND\NMIAMI\NVENETIAN ISLANDS ,the doctor has a speciality in Nurse Practitioner and the doctor starts his working hours in these times: 8 - 14 each visit cost is: 68$
+David                    Kuehler                             from ALBANY ,the doctor has a speciality in Surgery;Surgical Critical Care and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 21$
+GeraldLinette from PHILADELPHIA\N30TH ST TRAIN  POSTAL STR ,the doctor has a speciality in Oncology (Cancer) and the doctor starts his working hours in these times: 8 - 15 each visit cost is: 62$
+VijaySingh from BAY SHORE\NBAYSHORE\NFAIR HARBOR\NKISMET\NN BAY SHORE\NNORTH BAY SHORE\NPOINT O WOODS\NSALTAIRE\NW B ,the doctor has a speciality in DR,TS and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 68$
+TamarSpringel from CLEVELAND\NCLEVELAND HEIGHTS\NCLEVELAND HTS ,the doctor has a speciality in PN,PD and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 62$
+LisaMiller from GURNEE ,the doctor has a speciality in Specialist Radiology/Diagnostic and the doctor starts his working hours in these times: 8 - 16 each visit cost is: 64$
+RonaldShiell from SAN CLEMENTE ,the doctor has a speciality in Dermatology and the doctor starts his working hours in these times: 10 - 14 each visit cost is: 58$
+RonaldShiell from SAN CLEMENTE ,the doctor has a speciality in Family Practice / General Practice and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 62$
+LouisLeblanc from BOSTON ,the doctor has a speciality in Hospital Based Physician (Emergency Room) and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 45$
+MichaelPark from FOUNTAIN VLY\NSANTA ANA\NFOUNTAIN VALLEY ,the doctor has a speciality in Hospital Based Physician (Allied) and the doctor starts his working hours in these times: 9 - 15 each visit cost is: 30$
+MingWu from CHICAGO ,the doctor has a speciality in Internal Medicine and the doctor starts his working hours in these times: 9 - 14 each visit cost is: 37$
+LashawnMccarty from GRIFFIN ,the doctor has a speciality in MEDICAL PRACTITIONERS CRNA and the doctor starts his working hours in these times: 9 - 16 each visit cost is: 49$
+CharlesDeng from Modesto ,the doctor has a speciality in Hospital Based Physician (Emergency Room) and the doctor starts his working hours in these times: 10 - 16 each visit cost is: 40$
+ElizabethAbraham from HUNTINGDON VALLEY\NBETHAYRES\NHUNTINGDON VY ,the doctor has a speciality in MEDICAL PRACTITIONERS Certified Nurse Practitioner and the doctor starts his working hours in these times: 10 - 16 each visit cost is: 59$

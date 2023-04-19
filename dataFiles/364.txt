@@ -1,0 +1,101 @@
+this is a list of various doctors in our country:
+Stephen                  Mills                               from FINDLAY with specality of Internal Medicine ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 39 $
+ScottMacdonald from LAS VEGAS with specality of Cardiology ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 23 $
+ScottMacdonald from LAS VEGAS with specality of Cardiovascular Disease ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 41 $
+JosephHorstman from OKLAHOMA CITY\NNICHOLS HILLS\NTHE VILLAGE\NVILLAGE with specality of Primary Care Physicians Internal Medicine ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 33 $
+JosephIlvento from SANTA BARBARA with specality of Cardiac Electrophysiology;Cardiovascular Diseases ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 26 $
+MaryBurton from DETROIT with specality of Pediatrics ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 53 $
+Louis                    Cohen                               from SARASOTA with specality of Urology ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 35 $
+BreckonPav from CHARLOTTE with specality of Hospital Based Physician (Emergency Room) ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 38 $
+StephanieBarshay from LAKE CITY with specality of Mental Health ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 32 $
+LeaHunt from MESA with specality of Physical Therapy ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 69 $
+ThomasBryant from FORT MORGAN with specality of Surgery ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 43 $
+GrierJames from ATLANTA with specality of Hospital Based Physician (Allied) ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 62 $
+DavidHardy from SAINT LOUIS with specality of Surgery, General ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 27 $
+KathrinaGonzales from SAVANNAH\NTHUNDERBOLT\NWILMINGTON ISLAND with specality of Physical Therapy ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 26 $
+William                  Berger                              from DENVER\NLAKEWOOD with specality of Radiology (hospital based) ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 59 $
+AmyDavis from CITYWIDE with specality of Social Worker/Social Serv ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 58 $
+ThomasChacko from OSWEGO\NBUNDYVILLE\NDEMSTER\NFRUIT VALLEY\NFURNISS\NFURNISS STA\NNORTH HANNIBAL\NOSWEGO CENTER\NSCRI with specality of Radiology ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 39 $
+LaurenPingleton from DANVILLE with specality of Certified Nurse Practitioner ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 23 $
+JulieCoy from AURORA with specality of XNP,ALH ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 31 $
+SarahRice from BOSTON with specality of Hospital Based Physician (Emergency Room) ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 35 $
+WilliamDavis from BONIFAY\NCARYVILLE with specality of Family Practice ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 52 $
+JohnGhazi from KENDALL PARK with specality of DR,NR,R,RDH ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 44 $
+DavidMasur from BRONX with specality of Neuropsychology ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 25 $
+DavidMasur from BRONX with specality of Psychology ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 27 $
+BruceJackson from REDONDO BEACH with specality of Cardiology ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 20 $
+BruceJackson from REDONDO BEACH with specality of Cardiovascular Disease ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 56 $
+JenniferTomczak from BROOKLYN with specality of Radiology, Diagnostic ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 64 $
+FawazKashlan from TOMS RIVER with specality of Neonate-Perinatal Medicine ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 21 $
+HomelinkHomelink from SAN FRANCISCO with specality of Non-Emergency Transportation ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 36 $
+SaraEmery from AVONDALE with specality of MEDICAL PRACTITIONERS Certified Nurse Practitioner ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 25 $
+MaryFainstat from SAN JOSE with specality of Rheumatology ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 44 $
+LindaAnderson from NASHVILLE with specality of Non Physician - Nursing Related ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 56 $
+FrankGibase from DUBLIN\NLOLLIE with specality of ANH,AN ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 60 $
+KrishnaSchmidt from KANSAS CITY\NK C\NKANS CITY with specality of Non Physician - Physician Assistant ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 49 $
+MelodyHrubes from NANCY B JEFFERSON\NCHICAGO with specality of Orthopaedic Surgery;Physical Medicine and Rehabilitation ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 28 $
+NatalyaAgeyeva                             from BROOKLYN with specality of Nurse Practitioner ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 25 $
+Joseph                   Wiesel                              from PLANDOME\NSTRATHMORE\NMANHASSET with specality of Cardiovascular Diseases;Internal Medicine ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 60 $
+MaryTolbert from ATLANTA NAVAL AIR STATION\NDOBBINS A F B\NMARIETTA with specality of Anesthesiology ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 51 $
+SarahGrimm from LEXINGTON with specality of Non Physician - Physician Assistant ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 50 $
+JessicaMccardell from SHEBOYGAN with specality of Licensed Clinical Social Worker ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 24 $
+CarlosBayardo from Emeryville with specality of FP,OSH ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 38 $
+AnnaHoodem                              from BETHESDA with specality of Clinical Social Work ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 47 $
+GeraldFrey from MARTINSBURG with specality of Physician Assistant ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 48 $
+MichaelPreece from BASALT\NRUEDI with specality of DR,OSH,RDH ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 49 $
+Patrice                  Churchill                           from SAN MANUEL with specality of Family Practice ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 25 $
+NordstromNordstrom from Annapolis with specality of Durable Medical Equipment ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 34 $
+ScottForster from WICKLIFFE\NWILLOUGHBY HILLS\NWILLOWICK with specality of Internal Medicine ,the doctor starts his working hours from 8 and end it at 15 ,each visit costs 37 $
+AprilHeard from SCOTTSDALE with specality of Therapist Physical Therapy ,the doctor starts his working hours from 8 and end it at 15 ,each visit costs 24 $
+MichaelLowry from BALTIMORE\NFIRMS-COURTESY REPLY with specality of EM,EMH ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 65 $
+BarbaraAnderson from SAINT CHARLES\NST CHARLES\NVALLEY VIEW with specality of Physical Therapy ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 51 $
+MichelleWelling from Lawrenceburg with specality of FP,IM ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 27 $
+LisaMohesky from MARIETTA\NATLANTA NAVAL AIR STATION\NDOBBINS A F B with specality of Occupational Therapy ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 37 $
+HershelDugan from LAWRENCEVILLE with specality of Physical Therapy ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 65 $
+JavedImam from CHICAGO\NRAVENSWOOD with specality of Nuclear Medicine ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 65 $
+JavedImam from CHICAGO\NRAVENSWOOD with specality of Hematology/Oncology ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 62 $
+EricMarsh from MILWAUKEE with specality of Dermatology ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 38 $
+SarahHalter from CANTON with specality of Nurse Midwife ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 23 $
+KalilAl-Nassir from ADJUNTAS\NJARD DE ADJUNTAS\NURB SAN JOAQUIN with specality of pulmonary diseases ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 48 $
+MichaelMurphy from SAINT LOUIS with specality of Emergency Medicine ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 53 $
+MichaelMurphy from SAINT LOUIS with specality of Cardiovascular Disease ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 23 $
+MichaelMurphy from SAINT LOUIS with specality of Thoracic Surgery ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 32 $
+MichaelMurphy from SAINT LOUIS with specality of Surgery, General ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 45 $
+JulieGorshe from SAN FRANCISCO with specality of Hospital Based Physician (Allied) ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 20 $
+KimBurrell from AURORA\NDENVER with specality of Ophthalmology ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 56 $
+GregoryBoger from ORLANDO with specality of Otolaryngology ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 39 $
+ChristyKim from NEW YORK\NMANHATTAN\NNYC with specality of Pediatric ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 42 $
+ChristyKim from NEW YORK\NMANHATTAN\NNYC with specality of Pediatric Pulmonology ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 55 $
+RichardFolger from FALL RIVER with specality of Nurse/Nurse Practitioner ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 39 $
+DanielGeary from CANONSBURG\NMC MURRAY\NMCMURRAY with specality of Hospital Based Physician (Emergency Room) ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 66 $
+CassandraOwens from PHOENIX with specality of Nurse Practitioner ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 56 $
+BeatriceSchneider from SAINT JOSEPH with specality of Anesthesiology ,the doctor starts his working hours from 9 and end it at 14 ,each visit costs 38 $
+ErikWesthpal from BRIGHTON\NTHORNTON with specality of Dentists General Dentist ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 22 $
+Eugene                   Ver                                 from ROCHESTER\NGREECE with specality of Family Practice ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 25 $
+ShehzadAli from CHICAGO with specality of Internal Medicine ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 27 $
+MiguelFranco from HOUSTON\NADDICKS with specality of Primary Care Physicians Internal Medicine ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 67 $
+Jeffrey                  Burtaine                            from PHILLIPSBURG\NALPHA\NDELAWARE PARK\NLOPATCONG with specality of Occupational Medicine ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 53 $
+ThomasGann from SLIDELL with specality of Specialist Neurology ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 44 $
+CathyCorrow from CITYWIDE with specality of Pediatrics ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 30 $
+NicolePatino from CHICAGO with specality of Surgery - General ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 31 $
+AaronDominguez from NAVELENCIA\NREEDLEY with specality of Obstetrics And Gynecology ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 32 $
+Lauren                   Arini                               from DENTON with specality of Nurse Practitioner ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 66 $
+SuchintiaHakim from CINCINNATI with specality of Hospital Based Physician (Emergency Room) ,the doctor starts his working hours from 8 and end it at 15 ,each visit costs 42 $
+RajeshPatel from CTRY CLUB HLS\NORLAND HILLS\NTINLEY PARK with specality of Urology ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 32 $
+ManishaNewaskar from OAKLAND with specality of Pediatric Pulmonology ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 66 $
+DianaMarshall from COLUMBUS\NHALLOWELL\NMELROSE\NNEUTRAL\NQUAKER\NSHERWIN\NSTIPPVILLE with specality of Non Physician - Physician Assistant ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 61 $
+RichardBaron from Lake Elmo                      with specality of Pediatrics ,the doctor starts his working hours from 10 and end it at 15 ,each visit costs 66 $
+DeepakKilari from BROOKLYN with specality of ON,HEM,IM ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 60 $
+Roy CarloMaclang from Anaheim with specality of Physical Therapy ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 69 $
+LindaKelley from HIRAM with specality of Specialist Obstetrics/Gynecology ,the doctor starts his working hours from 10 and end it at 16 ,each visit costs 67 $
+KennethRoush from OREGON with specality of CD,IM ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 31 $
+BethanyAugustine from BALTIMORE with specality of Hospital Based Physician (Allied) ,the doctor starts his working hours from 8 and end it at 15 ,each visit costs 22 $
+StevenGraeca from DU BOIS with specality of Hospital Based Physician (Other) ,the doctor starts his working hours from 8 and end it at 14 ,each visit costs 24 $
+MatthewMeunier from LA JOLLA with specality of Orthopaedic Surgery ,the doctor starts his working hours from 8 and end it at 15 ,each visit costs 63 $
+PaulNeary from MADISON with specality of ADL,PAM,PD ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 48 $
+RobertOcasio from THOROFARE with specality of Internal Medicine ,the doctor starts his working hours from 8 and end it at 15 ,each visit costs 50 $
+EileenOregan from BOSTON with specality of IM,IMG ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 24 $
+Jessica                  Foltin                              from BROOKLYN with specality of Emergency Medicine;Pediatric Emergency Medicine ,the doctor starts his working hours from 10 and end it at 14 ,each visit costs 63 $
+JonathanLanham from CHICAGO with specality of IM,CD,IC ,the doctor starts his working hours from 8 and end it at 16 ,each visit costs 33 $
+SarahHeiner from HENDERSON\NCALICO RIDGE with specality of IM,FP ,the doctor starts his working hours from 9 and end it at 16 ,each visit costs 58 $
+TheresaBowes from INDIANAPOLIS with specality of Behavioral Health and Social Service Providers Professional Counselor ,the doctor starts his working hours from 9 and end it at 15 ,each visit costs 33 $
