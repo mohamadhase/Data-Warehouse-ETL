@@ -8,7 +8,7 @@ import numpy as np
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem import SnowballStemmer
-
+import os
 
 # Define columns for the fact table
 FACT_TABLE_COLUMNS = [
@@ -20,6 +20,32 @@ FACT_TABLE_COLUMNS = [
 ]
 
 
+# class DatabaseConnection:
+#     """
+#     This class is a Singleton class that handles database connection to SQL Server.
+#     """
+
+#     __instance = None
+
+#     @staticmethod
+#     def get_instance():
+#         """
+#         Static access method for the Singleton class.
+#         """
+#         if DatabaseConnection.__instance is None:
+#             DatabaseConnection()
+#         # reistablish the connection if it has been closed
+#         if DatabaseConnection.__instance.closed:
+#             DatabaseConnection.__instance = pyodbc.connect(
+#                 "Driver={SQL Server};"
+#                 "Server=DESKTOP-J8TTBKS;"
+#                 "[PotatoDataMartv1];"
+#                 "Trusted_Connection=yes;"
+#             )
+        
+#         return DatabaseConnection.__instance
+
+
 class DatabaseConnection:
     """
     This class is a Singleton class that handles database connection to SQL Server.
@@ -28,22 +54,19 @@ class DatabaseConnection:
     __instance = None
 
     @staticmethod
-    def get_instance():
+    def get_instance(database_name="PotatoDataMartv1"):
         """
         Static access method for the Singleton class.
         """
         if DatabaseConnection.__instance is None:
             DatabaseConnection()
-        # reistablish the connection if it has been closed
+        # re-establish the connection if it has been closed
         if DatabaseConnection.__instance.closed:
-            DatabaseConnection.__instance = pyodbc.connect(
-                "Driver={SQL Server};"
-                "Server=DESKTOP-J8TTBKS;"
-                "[PotatoDataMartv1];"
-                "Trusted_Connection=yes;"
-            )
+            connection_string = f"Driver={{SQL Server}};Server=DESKTOP-J8TTBKS;Database={database_name};Trusted_Connection=yes;"
+            DatabaseConnection.__instance = pyodbc.connect(connection_string)
         
         return DatabaseConnection.__instance
+
 
     def __init__(self):
         """
@@ -346,7 +369,6 @@ class FileReader:
             raise Exception(
                 "no default separator for txt file you must pass separator as argument"
             )
-
         df = pd.read_csv(file_name, sep=self.seperator)
         for key, value in self.combine_columns.items():
             # convert the value columns into string type
@@ -354,9 +376,10 @@ class FileReader:
             df[key] = df[value].apply(lambda x: " ".join(x), axis=1)
             df = df.drop(value, axis=1)
 
-        df = df.rename(columns=self.mapping_columns)
+        df.rename(columns=self.mapping_columns, inplace=True)
         df["startHour"] = df["startHour"].astype("int8")
         df["endHour"] = df["endHour"].astype("int8")
+
         return df
 
     def __enter__(self):
@@ -549,3 +572,78 @@ class FreeTextFileReader:
         print("Finished inserting data into database")
         
         
+
+class OLTPReader:
+
+    def __init__(self, database_name):
+        self.db_connection = DatabaseConnection.get_instance(database_name)
+        self.cursor = self.db_connection.cursor()
+
+    
+
+
+    
+    def __read_from_db(self,cursor):
+        QUERY = """
+        SELECT Potato.dbo.ProviderNetwork.Code as ProviderNetwork,
+        Potato.dbo.Provider.FirstName,
+        Potato.dbo.Provider.LastName,
+        Potato.dbo.Specialty.Name As Speciality,
+        Potato.dbo.City.Name as City,
+        MAX(CASE WHEN Potato.dbo.attribute.AttributeName = 'Cost' THEN Potato.dbo.ProviderAttribute.AttributeValue END) AS Cost,
+        MAX(CASE WHEN Potato.dbo.attribute.AttributeName = 'W_HOURS_START' THEN Potato.dbo.ProviderAttribute.AttributeValue END) AS W_HOURS_START,
+        MAX(CASE WHEN Potato.dbo.attribute.AttributeName = 'W_HOURS_END' THEN Potato.dbo.ProviderAttribute.AttributeValue END) AS W_HOURS_END
+        FROM Potato.dbo.Provider
+        JOIN Potato.dbo.ProviderSpecialtyAssoc ON Potato.dbo.Provider.Id = Potato.dbo.ProviderSpecialtyAssoc.ProviderId 
+        JOIN Potato.dbo.Specialty ON Potato.dbo.ProviderSpecialtyAssoc.SpacialtyId = Potato.dbo.Specialty.Id
+        JOIN Potato.dbo.ProviderNetwork ON Potato.dbo.Provider.ProviderNetworkId = Potato.dbo.ProviderNetwork.Id
+        JOIN Potato.dbo.ProviderAttribute ON Potato.dbo.Provider.Id = Potato.dbo.ProviderAttribute.ProviderId
+        JOIN Potato.dbo.attribute ON Potato.dbo.ProviderAttribute.AttributeId = Potato.dbo.attribute.Id
+        Join Potato.dbo.ProviderAddress on Potato.dbo.ProviderAddress.ProviderId = Potato.dbo.Provider.Id
+        Join Potato.dbo.City on Potato.dbo.ProviderAddress.CityId = Potato.dbo.City.Id
+
+        WHERE Potato.dbo.attribute.AttributeName IN ('W_HOURS_START', 'W_HOURS_END', 'Cost')
+        GROUP BY Potato.dbo.ProviderNetwork.Code, Potato.dbo.Provider.Id, Potato.dbo.Provider.FirstName, Potato.dbo.Provider.LastName, Potato.dbo.Specialty.Name,Potato.dbo.City.Name;
+        """
+        cursor.execute(QUERY)
+        rows = cursor.fetchall()
+        columns = ["ProviderNetwork","Fname","Lname","Specialty","City","Cost","Start Hour","End Hour"]
+        # convert rows to tuples
+        tuples = [tuple(row) for row in rows]
+        df = pd.DataFrame(tuples, columns=columns)
+        return df
+    def __get_dfs(self):
+        df = self.__read_from_db(self.cursor)
+        # split the df to list of df's based on provider network
+        df_list = [df[df['ProviderNetwork'] == provider_network] for provider_network in df['ProviderNetwork'].unique()]
+        # create a list of tuples with the provider network and the df and drop the provider network column
+        df_list = [(provider_network, df.drop(columns=['ProviderNetwork'])) for provider_network, df in zip(df['ProviderNetwork'].unique(), df_list)]
+        return df_list
+    def __iter_through_dfs(self,df_list):
+        vendor_columns_mapping = {
+        "Specialty" : "SpecialtyName",
+        "Start Hour" : "startHour",
+        "End Hour" : "endHour"
+        }
+        combined_columns_mapping = {
+            "ProviderName" : ["Fname","Lname"],
+        }
+        self.dfs = []
+        # save the df's to csv files temporarily
+        for provider_network, df in df_list:
+            # save the df to csv file named after the provider network
+            df.to_csv(f"data/temp/{provider_network}.csv", index=False)
+            # insert the data using FileReader
+            
+            with FileReader(f"data/temp/{provider_network}.csv", vendor_columns_mapping, combined_columns_mapping) as reader:
+                self.dfs.append(((provider_network),reader.status))
+            # delete the csv file
+            os.remove(f"data/temp/{provider_network}.csv")
+            
+    def __enter__(self):
+        df_list = self.__get_dfs()
+        self.__iter_through_dfs(df_list)
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        print("Finished inserting data into database")
